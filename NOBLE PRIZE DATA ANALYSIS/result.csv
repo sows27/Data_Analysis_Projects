@@ -1,0 +1,961 @@
+award_year,category,share,prize_amount,prize_amount_adjusted,date_awarded,laureate_id,name,gender,birth_date,birth_continent,birth_country,death_date,type
+2001,Economic Sciences,1/3,10000000,12295082,2001-10-10,745,A. Michael Spence,male,1943-00-00,North America,USA,not dead or organization,Individual
+1975,Physics,1/3,630000,3404179,1975-10-17,102,Aage N. Bohr,male,1922-06-19,Europe,Denmark,2009-09-08,Individual
+2004,Chemistry,1/3,10000000,11762861,2004-10-06,779,Aaron Ciechanover,male,1947-10-01,Asia,British Protectorate of Palestine,not dead or organization,Individual
+1982,Chemistry,1,1150000,3102518,1982-10-18,259,Aaron Klug,male,1926-08-11,Europe,Lithuania,2018-11-20,Individual
+1979,Physics,1/3,800000,2988048,1979-10-15,114,Abdus Salam,male,1926-01-29,Asia,India,1996-11-21,Individual
+2019,Economic Sciences,1/3,9000000,9000000,2019-10-14,982,Abhijit Banerjee,male,1961-02-21,Asia,India,not dead or organization,Individual
+2019,Peace,1,9000000,9000000,2019-10-11,981,Abiy Ahmed Ali,male,1976-08-15,Africa,Ethiopia,not dead or organization,Individual
+2009,Chemistry,1/3,10000000,10958504,2009-10-07,843,Ada E. Yonath,female,1939-06-22,Asia,British Mandate of Palestine,not dead or organization,Individual
+2011,Physics,1/4,10000000,10545557,2011-10-04,866,Adam G. Riess,male,1969-12-16,North America,USA,not dead or organization,Individual
+1939,Chemistry,1/2,148822,4227898,not specified,199,Adolf Butenandt,male,1903-03-24,Europe,Germany,1995-01-18,Individual
+1905,Chemistry,1,138089,7615202,not specified,164,Adolf von Baeyer,male,1835-10-31,Europe,Prussia,1917-08-20,Individual
+1928,Chemistry,1,156939,4458494,not specified,185,Adolf Windaus,male,1876-12-25,Europe,Germany,1959-06-09,Individual
+1980,Peace,1,880000,2889667,1980-10-27,541,Adolfo Pérez Esquivel,male,1931-11-26,South America,Argentina,not dead or organization,Individual
+1999,Chemistry,1,7900000,10049186,1999-10-12,292,Ahmed Zewail,male,1946-02-26,Africa,Egypt,2016-08-02,Individual
+2010,Chemistry,1/3,10000000,10819388,2010-10-06,853,Akira Suzuki,male,1930-09-12,Asia,Japan,not dead or organization,Individual
+2019,Chemistry,1/3,9000000,9000000,2019-10-09,978,Akira Yoshino,male,1948-01-30,Asia,Japan,not dead or organization,Individual
+2007,Peace,1/2,10000000,11301989,2007-10-12,819,Al Gore,male,1948-03-31,North America,USA,not dead or organization,Individual
+2000,Chemistry,1/3,9000000,11333109,2000-10-10,729,Alan Heeger,male,1936-01-22,North America,USA,not dead or organization,Individual
+1963,Physiology or Medicine,1/3,265000,2839286,not specified,376,Alan Hodgkin,male,1914-02-05,Europe,United Kingdom,1998-12-20,Individual
+2000,Chemistry,1/3,9000000,11333109,2000-10-10,730,Alan MacDiarmid,male,1927-04-14,Oceania,New Zealand,2007-02-07,Individual
+1907,Physics,1,138796,7033581,not specified,11,Albert A. Michelson,male,1852-12-19,Europe,Prussia,1931-05-09,Individual
+1957,Literature,1,208629,2697789,not specified,628,Albert Camus,male,1913-11-07,Africa,French Algeria,1960-01-04,Individual
+1974,Physiology or Medicine,1/3,550000,3263449,not specified,403,Albert Claude,male,1898-08-24,Europe,Belgium,1983-05-22,Individual
+1921,Physics,1,121573,2532771,not specified,26,Albert Einstein,male,1879-03-14,Europe,Germany,1955-04-18,Individual
+2007,Physics,1/2,10000000,11301989,2007-10-09,814,Albert Fert,male,1938-03-07,Europe,France,not dead or organization,Individual
+1902,Peace,1/2,141847,8059489,1902-12-10,465,Albert Gobat,male,1843-05-21,Europe,Switzerland,1914-03-16,Individual
+1960,Peace,1,225987,2664941,1961-10-23,519,Albert Luthuli,male,1898-00-00,Africa,Southern Rhodesia,1967-07-21,Individual
+1952,Peace,1,171135,2546652,1953-10-30,513,Albert Schweitzer,male,1875-01-14,Europe,Germany,1965-09-04,Individual
+1937,Physiology or Medicine,1,158463,4716161,not specified,332,Albert Szent-Györgyi,male,1893-09-16,Europe,Austria-Hungary,1986-10-22,Individual
+1910,Physiology or Medicine,1,140703,7130220,not specified,304,Albrecht Kossel,male,1853-09-16,Europe,Mecklenburg,1927-07-05,Individual
+1964,Physics,1/4,273000,2828039,not specified,83,Aleksandr M. Prokhorov,male,1916-07-11,Oceania,Australia,2002-01-08,Individual
+1970,Literature,1,400000,3177966,1970-10-08,644,Alexandr Solzhenitsyn,male,1918-12-11,Europe,Russia,2008-08-03,Individual
+2003,Physics,1/3,10000000,11807305,2003-10-07,766,Alexei Abrikosov,male,1928-06-25,Europe,USSR,2017-03-29,Individual
+1912,Physiology or Medicine,1,140476,6753654,not specified,306,Alexis Carrel,male,1873-06-28,Europe,France,1944-11-05,Individual
+1982,Peace,1/2,1150000,3102518,1982-10-13,544,Alfonso García Robles,male,1911-03-20,North America,Mexico,1991-09-02,Individual
+1969,Physiology or Medicine,1/3,375000,3181561,not specified,392,Alfred D. Hershey,male,1908-12-04,North America,USA,1997-05-22,Individual
+1911,Peace,1/2,140695,7327865,1911-12-10,479,Alfred Fried,male,1864-11-11,Europe,Austria,1921-05-05,Individual
+1994,Physiology or Medicine,1/2,7000000,9249471,1994-10-10,450,Alfred G. Gilman,male,1941-07-01,North America,USA,2015-12-23,Individual
+1966,Physics,1,300000,2784653,not specified,87,Alfred Kastler,male,1902-05-03,Europe,Germany,1984-01-07,Individual
+1913,Chemistry,1,143010,6875481,not specified,174,Alfred Werner,male,1866-12-12,Europe,France,1919-11-15,Individual
+2013,Literature,1,8000000,8365867,2013-10-10,892,Alice Munro,female,1931-07-10,North America,Canada,not dead or organization,Individual
+1979,Physiology or Medicine,1/2,800000,2988048,1979-10-11,417,Allan M. Cormack,male,1924-02-23,Africa,South Africa,1998-05-07,Individual
+1911,Physiology or Medicine,1,140695,7327865,not specified,305,Allvar Gullstrand,male,1862-06-05,Europe,Sweden,1930-07-28,Individual
+1907,Physiology or Medicine,1,138796,7033581,not specified,300,Alphonse Laveran,male,1845-06-18,Europe,France,1922-05-18,Individual
+1982,Peace,1/2,1150000,3102518,1982-10-13,543,Alva Myrdal,female,1902-01-31,Europe,Sweden,1986-02-01,Individual
+2012,Economic Sciences,1/2,8000000,8361204,2012-10-15,882,Alvin E. Roth,male,1951-12-18,North America,USA,not dead or organization,Individual
+1998,Economic Sciences,1,7600000,9713701,1998-10-14,719,Amartya Sen,male,1933-11-03,Asia,India,not dead or organization,Individual
+1947,Peace,1/2,146115,2914528,1947-10-30,509,American Friends Service Committee,organization,1917-00-00,North America,USA,not dead or organization,Organization
+1977,Peace,1,700000,3080986,1977-10-10,537,Amnesty International,organization,1961-00-00,Europe,United Kingdom,not dead or organization,Organization
+1921,Literature,1,121573,2532771,not specified,590,Anatole France,male,1844-04-16,Europe,France,1924-10-12,Individual
+1956,Physiology or Medicine,1/3,200123,2699501,not specified,360,André F. Cournand,male,1895-09-24,Europe,France,1988-02-19,Individual
+2010,Physics,1/2,10000000,10819388,2010-10-05,849,Andre Geim,male,1958-10-21,Europe,Russia,not dead or organization,Individual
+1947,Literature,1,146115,2914528,not specified,618,André Gide,male,1869-11-22,Europe,France,1951-02-19,Individual
+1965,Physiology or Medicine,1/3,282000,2782895,not specified,381,André Lwoff,male,1902-05-08,Europe,France,1994-09-30,Individual
+1975,Peace,1,630000,3404179,1975-10-09,534,Andrei Sakharov,male,1921-05-21,Europe,Russia,1989-12-14,Individual
+1963,Physiology or Medicine,1/3,265000,2839286,not specified,377,Andrew Huxley,male,1917-11-22,Europe,United Kingdom,2012-05-30,Individual
+1977,Physiology or Medicine,1/4,700000,3080986,not specified,412,Andrew V. Schally,male,1926-11-30,Europe,Poland,not dead or organization,Individual
+2006,Physiology or Medicine,1/2,10000000,11552680,2006-10-02,802,Andrew Z. Fire,male,1959-04-27,North America,USA,not dead or organization,Individual
+2015,Economic Sciences,1,8000000,8384572,2015-10-12,926,Angus Deaton,male,1945-10-19,Europe,Scotland,not dead or organization,Individual
+2003,Physics,1/3,10000000,11807305,2003-10-07,768,Anthony J. Leggett,male,1938-03-26,Europe,United Kingdom,not dead or organization,Individual
+1974,Physics,1/2,550000,3263449,1974-10-15,101,Antony Hewish,male,1924-05-11,Europe,United Kingdom,not dead or organization,Individual
+1978,Peace,1/2,725000,2898454,1978-10-27,538,Anwar al-Sadat,male,1918-12-25,Africa,Egypt,1981-10-06,Individual
+1952,Chemistry,1/2,171135,2546652,not specified,214,Archer J.P. Martin,male,1910-03-01,Europe,United Kingdom,2002-07-28,Individual
+1922,Physiology or Medicine,1/2,122483,3145967,not specified,311,Archibald V. Hill,male,1886-09-26,Europe,United Kingdom,1977-06-03,Individual
+2013,Chemistry,1/3,8000000,8365867,2013-10-09,891,Arieh Warshel,male,1940-11-20,Asia,British Mandate of Palestine,not dead or organization,Individual
+1926,Peace,1/2,116960,3273134,1926-12-10,490,Aristide Briand,male,1862-03-28,Europe,France,1932-03-07,Individual
+1948,Chemistry,1,159773,3056881,not specified,208,Arne Tiselius,male,1902-08-10,Europe,Sweden,1971-10-29,Individual
+1978,Physics,1/4,725000,2898454,1978-10-17,111,Arno Penzias,male,1933-04-26,Europe,Germany,not dead or organization,Individual
+2018,Physics,1/2,9000000,9000000,2018-10-02,960,Arthur Ashkin,male,1922-09-02,North America,USA,not dead or organization,Individual
+2015,Physics,1/2,8000000,8384572,2015-10-06,920,Arthur B. McDonald,male,1943-08-29,North America,Canada,not dead or organization,Individual
+1927,Physics,1/2,126501,3593778,not specified,33,Arthur H. Compton,male,1892-09-10,North America,USA,1962-03-15,Individual
+1929,Chemistry,1/2,172760,4907955,not specified,186,Arthur Harden,male,1865-10-12,Europe,United Kingdom,1940-06-17,Individual
+1934,Peace,1,162608,5167627,1934-12-10,499,Arthur Henderson,male,1863-09-13,Europe,Scotland,1935-10-20,Individual
+1959,Physiology or Medicine,1/2,220678,2704387,not specified,368,Arthur Kornberg,male,1918-03-03,North America,USA,2007-10-26,Individual
+1981,Physics,1/4,1000000,2929688,1981-10-19,119,Arthur L. Schawlow,male,1921-05-05,North America,USA,1999-04-28,Individual
+1945,Chemistry,1,121333,2499993,not specified,203,Artturi Virtanen,male,1895-01-15,Europe,Russian Empire,1973-11-11,Individual
+2000,Physiology or Medicine,1/3,9000000,11333109,2000-10-09,722,Arvid Carlsson,male,1923-01-25,Europe,Sweden,2018-06-29,Individual
+1920,Physiology or Medicine,1,134100,2394643,not specified,310,August Krogh,male,1874-11-15,Europe,Denmark,1949-09-13,Individual
+1909,Peace,1/2,139800,7084459,1909-12-10,475,Auguste Beernaert,male,1829-07-26,Europe,Belgium,1912-10-06,Individual
+1991,Peace,1,6000000,8673863,1991-10-14,553,Aung San Suu Kyi ,female,1945-06-19,Asia,Burma,not dead or organization,Individual
+2004,Chemistry,1/3,10000000,11762861,2004-10-06,780,Avram Hershko,male,1937-12-31,Europe,Hungary,not dead or organization,Individual
+2015,Chemistry,1/3,8000000,8384572,2015-10-07,923,Aziz Sancar,male,1946-09-08,Asia,Turkey,not dead or organization,Individual
+2009,Peace,1,10000000,10958504,2009-10-09,845,Barack H. Obama,male,1961-08-04,North America,USA,not dead or organization,Individual
+1983,Physiology or Medicine,1,1500000,3715324,not specified,428,Barbara McClintock,female,1902-06-16,North America,USA,1992-09-02,Individual
+2017,Physics,1/4,9000000,9176183,2017-10-03,942,Barry C. Barish,male,1936-01-27,North America,USA,not dead or organization,Individual
+2005,Physiology or Medicine,1/2,10000000,11711430,2005-10-03,789,Barry J. Marshall,male,1951-09-30,Oceania,Australia,not dead or organization,Individual
+2001,Chemistry,1/2,10000000,12295082,2001-10-10,743,Barry Sharpless,male,1941-04-28,North America,USA,not dead or organization,Individual
+1976,Physiology or Medicine,1/2,681000,3342605,1976-10-14,409,Baruch S. Blumberg,male,1925-07-28,North America,USA,2011-04-05,Individual
+1980,Physiology or Medicine,1/3,880000,2889667,1980-10-10,419,Baruj Benacerraf,male,1920-10-29,South America,Venezuela,2011-08-02,Individual
+1975,Physics,1/3,630000,3404179,1975-10-17,103,Ben R. Mottelson,male,1926-07-09,North America,USA,not dead or organization,Individual
+2016,Economic Sciences,1/2,8000000,8301051,2016-10-10,936,Bengt Holmström,male,1949-04-18,Europe,Finland,not dead or organization,Individual
+1982,Physiology or Medicine,1/3,1150000,3102518,1982-10-11,426,Bengt I. Samuelsson,male,1934-05-21,Europe,Sweden,not dead or organization,Individual
+2016,Chemistry,1/3,8000000,8301051,2016-10-05,933,Bernard L. Feringa,male,1951-05-18,Europe,the Netherlands,not dead or organization,Individual
+1947,Physiology or Medicine,1/2,146115,2914528,not specified,345,Bernardo Houssay,male,1887-04-10,South America,Argentina,1971-09-21,Individual
+1991,Physiology or Medicine,1/2,6000000,8673863,not specified,445,Bert Sakmann,male,1942-06-12,Europe,Germany,not dead or organization,Individual
+1905,Peace,1,138089,7615202,1905-12-10,468,Bertha von Suttner,female,1843-06-09,Europe,Austrian Empire,1914-06-21,Individual
+1977,Economic Sciences,1/2,700000,3080986,1977-10-14,689,Bertil Ohlin,male,1899-04-23,Europe,Sweden,1979-08-03,Individual
+1994,Physics,1/2,7000000,9249471,1994-10-12,145,Bertram N. Brockhouse,male,1918-07-15,North America,Canada,2003-10-13,Individual
+1950,Literature,1,164304,3050198,not specified,621,Bertrand Russell,male,1872-05-18,Europe,United Kingdom,1970-02-02,Individual
+1976,Peace,1/2,681000,3342605,1977-10-10,535,Betty Williams,female,1943-05-22,Europe,Northern Ireland,2020-03-17,Individual
+1903,Literature,1,141358,7795478,not specified,572,Bjørnstjerne Bjørnson,male,1832-12-08,Europe,Norway,1910-04-26,Individual
+2016,Literature,1,8000000,8301051,2016-10-13,937,Bob Dylan,male,1941-05-24,North America,USA,not dead or organization,Individual
+1958,Literature,1,214559,2646698,not specified,629,Boris Pasternak,male,1890-02-10,Europe,Russia,1960-05-30,Individual
+1973,Physics,1/2,510000,3331882,1973-10-23,99,Brian D. Josephson,male,1940-01-04,Europe,United Kingdom,not dead or organization,Individual
+2012,Chemistry,1/2,8000000,8361204,2012-10-10,879,Brian Kobilka,male,1955-05-30,North America,USA,not dead or organization,Individual
+2011,Physics,1/4,10000000,10545557,2011-10-04,865,Brian P. Schmidt,male,1967-02-24,North America,USA,not dead or organization,Individual
+2011,Physiology or Medicine,1/4,10000000,10545557,not specified,861,Bruce A. Beutler,male,1957-12-29,North America,USA,not dead or organization,Individual
+1984,Chemistry,1,1650000,3782090,1984-10-17,261,Bruce Merrifield,male,1921-07-15,North America,USA,2006-05-14,Individual
+1976,Physics,1/2,681000,3342605,1976-10-18,105,Burton Richter,male,1931-03-22,North America,USA,2018-07-18,Individual
+1927,Physics,1/2,126501,3593778,not specified,34,C.T.R. Wilson,male,1869-02-14,Europe,Scotland,1959-11-15,Individual
+1906,Physiology or Medicine,1/2,138536,7421571,not specified,298,Camillo Golgi,male,1843-07-07,Europe,Italy,1926-01-21,Individual
+1989,Literature,1,3000000,5242311,not specified,666,Camilo José Cela,male,1916-05-11,Europe,Spain,2002-01-17,Individual
+1931,Chemistry,1/2,173206,5238085,not specified,189,Carl Bosch,male,1874-08-27,Europe,Germany,1940-04-26,Individual
+1947,Physiology or Medicine,1/4,146115,2914528,not specified,343,Carl Cori,male,1896-12-05,Europe,Austria-Hungary,1984-10-20,Individual
+1936,Physics,1/2,159850,4913422,not specified,43,Carl D. Anderson,male,1905-09-03,North America,USA,1991-01-11,Individual
+1919,Literature,1,133127,2377268,not specified,588,Carl Spitteler,male,1845-04-24,Europe,Switzerland,1924-12-29,Individual
+1935,Peace,1,159917,4997406,1936-11-24,500,Carl von Ossietzky,male,1889-10-03,Europe,Germany,1938-05-04,Individual
+2001,Physics,1/3,10000000,12295082,2001-10-09,740,Carl Wieman,male,1951-03-26,North America,USA,not dead or organization,Individual
+1984,Physics,1/2,1650000,3782090,1984-10-17,124,Carlo Rubbia,male,1934-03-31,Europe,Italy,not dead or organization,Individual
+1996,Peace,1/2,7400000,9490424,1996-10-11,562,Carlos Filipe Ximenes Belo,male,1948-02-03,Oceania,East Timor,not dead or organization,Individual
+1936,Peace,1,159850,4913422,1936-11-24,501,Carlos Saavedra Lamas,male,1878-11-01,South America,Argentina,1959-05-05,Individual
+2009,Physiology or Medicine,1/3,10000000,10958504,not specified,836,Carol W. Greider,female,1961-04-15,North America,USA,not dead or organization,Individual
+1950,Physics,1,164304,3050198,not specified,55,Cecil Powell,male,1903-12-05,Europe,United Kingdom,1969-08-09,Individual
+1984,Physiology or Medicine,1/3,1650000,3782090,not specified,431,César Milstein,male,1927-10-08,South America,Argentina,2002-03-24,Individual
+1966,Physiology or Medicine,1/2,300000,2784653,not specified,384,Charles B. Huggins,male,1901-09-22,North America,Canada,1997-01-12,Individual
+1920,Physics,1,134100,2394643,not specified,25,Charles Edouard Guillaume,male,1861-02-15,Europe,Switzerland,1938-06-13,Individual
+1925,Peace,1/2,118165,3211005,1926-12-10,489,Charles G. Dawes,male,1865-08-27,North America,USA,1951-04-23,Individual
+1917,Physics,1,133823,3920596,1918-11-12,22,Charles Glover Barkla,male,1877-06-07,Europe,United Kingdom,1944-10-23,Individual
+1964,Physics,1/2,273000,2828039,not specified,81,Charles H. Townes,male,1915-07-28,North America,USA,2015-01-27,Individual
+1987,Chemistry,1/3,2175000,4274764,1987-10-14,269,Charles J. Pedersen,male,1904-10-03,Asia,Korea,1989-10-26,Individual
+2009,Physics,1/2,10000000,10958504,2009-10-06,838,Charles K. Kao,male,1933-11-04,Asia,China,2018-09-23,Individual
+1928,Physiology or Medicine,1,156939,4458494,not specified,318,Charles Nicolle,male,1866-09-21,Europe,France,1936-02-28,Individual
+1913,Physiology or Medicine,1,143010,6875481,not specified,307,Charles Richet,male,1850-08-26,Europe,France,1935-12-04,Individual
+1957,Physics,1/2,208629,2697789,not specified,68,Chen Ning Yang,male,1922-09-22,Asia,China,not dead or organization,Individual
+1929,Physiology or Medicine,1/2,172760,4907955,not specified,319,Christiaan Eijkman,male,1858-08-11,Europe,the Netherlands,1930-11-05,Individual
+1972,Chemistry,1/2,480000,3345725,not specified,241,Christian Anfinsen,male,1916-03-26,North America,USA,1995-05-14,Individual
+1974,Physiology or Medicine,1/3,550000,3263449,not specified,404,Christian de Duve,male,1917-10-02,Europe,United Kingdom,2013-05-04,Individual
+1921,Peace,1/2,121573,2532771,1921-12-10,486,Christian Lange,male,1869-09-17,Europe,Norway,1938-12-11,Individual
+1995,Physiology or Medicine,1/3,7200000,9278351,1995-10-09,453,Christiane Nüsslein-Volhard,female,1942-10-20,Europe,Germany,not dead or organization,Individual
+2010,Economic Sciences,1/3,10000000,10819388,2010-10-11,858,Christopher A. Pissarides,male,1948-02-20,Europe,Cyprus,not dead or organization,Individual
+2011,Economic Sciences,1/2,10000000,10545557,2011-10-10,873,Christopher A. Sims,male,1942-10-21,North America,USA,not dead or organization,Individual
+1997,Physics,1/3,7500000,9572839,1997-10-15,153,Claude Cohen-Tannoudji,male,1933-04-01,Africa,French Algeria,not dead or organization,Individual
+1985,Literature,1,1800000,3843964,not specified,662,Claude Simon,male,1913-10-10,Africa,Madagascar,2005-07-06,Individual
+1994,Physics,1/2,7000000,9249471,1994-10-12,146,Clifford G. Shull,male,1915-09-23,North America,USA,2001-03-31,Individual
+1937,Physics,1/2,158463,4716161,not specified,44,Clinton Davisson,male,1881-10-22,North America,USA,1958-02-01,Individual
+2003,Economic Sciences,1/2,10000000,11807305,2003-10-08,772,Clive W.J. Granger,male,1934-09-04,Europe,United Kingdom,2009-05-27,Individual
+1945,Peace,1,121333,2499993,1945-11-12,505,Cordell Hull,male,1871-10-02,North America,USA,1955-07-23,Individual
+1938,Physiology or Medicine,1,155077,4543271,not specified,333,Corneille Heymans,male,1892-03-28,Europe,Belgium,1968-07-18,Individual
+2006,Physiology or Medicine,1/2,10000000,11552680,2006-10-02,803,Craig C. Mello,male,1960-10-19,North America,USA,not dead or organization,Individual
+1980,Literature,1,880000,2889667,not specified,657,Czeslaw Milosz,male,1911-06-30,Europe,Russian Empire,2004-08-14,Individual
+1976,Physiology or Medicine,1/2,681000,3342605,1976-10-14,410,D. Carleton Gajdusek,male,1923-09-09,North America,USA,2008-12-12,Individual
+1961,Peace,1,250233,2878447,1961-10-23,520,Dag Hammarskjöld,male,1905-07-29,Europe,Sweden,1961-09-18,Individual
+2010,Economic Sciences,1/3,10000000,10819388,2010-10-11,857,Dale T. Mortensen,male,1939-02-02,North America,USA,2014-01-09,Individual
+2011,Chemistry,1,10000000,10545557,2011-10-05,867,Dan Shechtman,male,1941-01-24,Asia,British Mandate of Palestine,not dead or organization,Individual
+1957,Physiology or Medicine,1,208629,2697789,not specified,363,Daniel Bovet,male,1907-03-23,Europe,Switzerland,1992-04-08,Individual
+1998,Physics,1/3,7600000,9713701,1998-10-13,157,Daniel C. Tsui,male,1939-02-28,Asia,China,not dead or organization,Individual
+2002,Economic Sciences,1/2,10000000,12034660,2002-10-09,759,Daniel Kahneman,male,1934-03-05,Asia,British Mandate of Palestine,not dead or organization,Individual
+2000,Economic Sciences,1/2,9000000,11333109,2000-10-11,733,Daniel L. McFadden,male,1937-07-29,North America,USA,not dead or organization,Individual
+1978,Physiology or Medicine,1/3,725000,2898454,not specified,415,Daniel Nathans,male,1928-10-30,North America,USA,1999-11-16,Individual
+1997,Literature,1,7500000,9572839,not specified,674,Dario Fo,male,1926-03-24,Europe,Italy,2016-10-13,Individual
+1975,Physiology or Medicine,1/3,630000,3404179,1975-10-16,406,David Baltimore,male,1938-03-07,North America,USA,not dead or organization,Individual
+1981,Physiology or Medicine,1/4,1000000,2929688,1981-10-09,423,David H. Hubel,male,1926-02-27,North America,Canada,2013-09-22,Individual
+2004,Physics,1/3,10000000,11762861,2004-10-05,776,David J. Gross,male,1941-02-19,North America,USA,not dead or organization,Individual
+2016,Physics,1/2,8000000,8301051,2016-10-04,928,David J. Thouless,male,1934-09-21,Europe,United Kingdom,2019-04-06,Individual
+2012,Physics,1/2,8000000,8361204,2012-10-09,877,David J. Wineland,male,1944-02-24,North America,USA,not dead or organization,Individual
+1996,Physics,1/3,7400000,9490424,1996-10-09,149,David M. Lee,male,1931-01-20,North America,USA,not dead or organization,Individual
+1998,Peace,1/2,7600000,9713701,1998-10-16,567,David Trimble,male,1944-10-15,Europe,Northern Ireland,not dead or organization,Individual
+2018,Peace,1/2,9000000,9000000,2018-10-05,966,Denis Mukwege,male,1955-03-01,Africa,Belgian Congo,not dead or organization,Individual
+1971,Physics,1,450000,3321850,not specified,93,Dennis Gabor,male,1900-06-05,Europe,Hungary,1979-02-08,Individual
+1969,Chemistry,1/2,375000,3181561,not specified,237,Derek Barton,male,1918-09-08,Europe,United Kingdom,1998-03-16,Individual
+1992,Literature,1,6500000,9184250,not specified,669,Derek Walcott,male,1930-01-23,North America,Saint Lucia,2017-03-17,Individual
+1984,Peace,1,1650000,3782090,1984-10-05,546,Desmond Tutu,male,1931-10-07,Africa,South Africa,not dead or organization,Individual
+1956,Physiology or Medicine,1/3,200123,2699501,not specified,362,Dickinson W. Richards,male,1895-10-30,North America,USA,1973-02-23,Individual
+2019,Physics,1/4,9000000,9000000,2019-10-08,975,Didier Queloz,male,1966-02-23,Europe,Switzerland,not dead or organization,Individual
+1960,Physics,1,225987,2664941,1960-11-03,74,Donald A. Glaser,male,1926-09-21,North America,USA,2013-02-28,Individual
+1987,Chemistry,1/3,2175000,4274764,1987-10-14,267,Donald J. Cram,male,1919-04-22,North America,USA,2001-06-17,Individual
+2018,Physics,1/4,9000000,9000000,2018-10-02,962,Donna Strickland,female,1959-05-27,North America,Canada,not dead or organization,Individual
+2007,Literature,1,10000000,11301989,2007-10-11,817,Doris Lessing,female,1919-10-22,Asia,Persia,2013-11-17,Individual
+1964,Chemistry,1,273000,2828039,not specified,230,Dorothy Crowfoot Hodgkin,female,1910-05-12,Africa,Egypt,1994-07-29,Individual
+1996,Physics,1/3,7400000,9490424,1996-10-09,150,Douglas D. Osheroff,male,1945-08-01,North America,USA,not dead or organization,Individual
+1993,Economic Sciences,1/2,6700000,9044276,1993-10-12,710,Douglass C. North,male,1920-11-05,North America,USA,2015-11-23,Individual
+1986,Chemistry,1/3,2000000,4098361,1986-10-15,264,Dudley R. Herschbach,male,1932-06-18,North America,USA,not dead or organization,Individual
+1990,Physiology or Medicine,1/2,4000000,6329114,not specified,443,E. Donnall Thomas,male,1920-03-15,North America,USA,2012-10-20,Individual
+1952,Physics,1/2,171135,2546652,not specified,59,E. M. Purcell,male,1912-08-30,North America,USA,1997-03-07,Individual
+1971,Physiology or Medicine,1,450000,3321850,not specified,397,"Earl W. Sutherland, Jr.",male,1915-11-19,North America,USA,1974-03-09,Individual
+1932,Physiology or Medicine,1/2,171753,5279293,not specified,324,Edgar Adrian,male,1889-11-30,Europe,United Kingdom,1977-08-08,Individual
+1992,Physiology or Medicine,1/2,6500000,9184250,not specified,446,Edmond H. Fischer,male,1920-04-06,Asia,China,not dead or organization,Individual
+2006,Economic Sciences,1,10000000,11552680,2006-10-09,807,Edmund S. Phelps,male,1933-07-26,North America,USA,not dead or organization,Individual
+1907,Chemistry,1,138796,7033581,not specified,166,Eduard Buchner,male,1860-05-20,Europe,Bavaria,1917-08-13,Individual
+2014,Physiology or Medicine,1/4,8000000,8379888,not specified,905,Edvard I. Moser,male,1962-04-27,Europe,Norway,not dead or organization,Individual
+1943,Physiology or Medicine,1/2,123691,2520876,not specified,336,Edward A. Doisy,male,1893-11-13,North America,USA,1986-10-23,Individual
+1995,Physiology or Medicine,1/3,7200000,9278351,1995-10-09,452,Edward B. Lewis,male,1918-05-20,North America,USA,2004-07-21,Individual
+1950,Physiology or Medicine,1/3,164304,3050198,not specified,349,Edward C. Kendall,male,1886-03-08,North America,USA,1972-05-04,Individual
+2004,Economic Sciences,1/2,10000000,11762861,2004-10-11,787,Edward C. Prescott,male,1940-12-26,North America,USA,not dead or organization,Individual
+1958,Physiology or Medicine,1/4,214559,2646698,not specified,365,Edward Tatum,male,1909-12-14,North America,USA,1975-11-05,Individual
+1947,Physics,1,146115,2914528,not specified,52,Edward V. Appleton,male,1892-09-06,Europe,United Kingdom,1965-04-21,Individual
+1992,Physiology or Medicine,1/2,6500000,9184250,not specified,447,Edwin G. Krebs,male,1918-06-06,North America,USA,2009-12-21,Individual
+1951,Chemistry,1/2,167612,2686090,not specified,212,Edwin M. McMillan,male,1907-09-18,North America,USA,1991-09-07,Individual
+1949,Physiology or Medicine,1/2,156290,2930438,not specified,348,Egas Moniz,male,1874-11-29,Europe,Portugal,1955-12-13,Individual
+2010,Chemistry,1/3,10000000,10819388,2010-10-06,852,Ei-ichi Negishi,male,1935-07-14,Asia,China,not dead or organization,Individual
+1974,Peace,1/2,550000,3263449,1974-10-09,533,Eisaku Sato,male,1901-03-27,Asia,Japan,1975-06-03,Individual
+2004,Literature,1,10000000,11762861,2004-10-07,782,Elfriede Jelinek,female,1946-10-20,Europe,Austria,not dead or organization,Individual
+1981,Literature,1,1000000,2929688,not specified,658,Elias Canetti,male,1905-07-25,Europe,Bulgaria,1994-08-14,Individual
+1990,Chemistry,1,4000000,6329114,1990-10-17,275,Elias James Corey,male,1928-07-12,North America,USA,not dead or organization,Individual
+1902,Peace,1/2,141847,8059489,1902-12-10,464,Élie Ducommun,male,1833-02-19,Europe,Switzerland,1906-12-07,Individual
+1986,Peace,1,2000000,4098361,1986-10-14,548,Elie Wiesel,male,1928-09-30,Europe,Romania,2016-07-02,Individual
+1912,Peace,1,140476,6753654,1913-12-10,480,Elihu Root,male,1845-02-15,North America,USA,1937-02-07,Individual
+2009,Economic Sciences,1/2,10000000,10958504,2009-10-12,846,Elinor Ostrom,female,1933-08-07,North America,USA,2012-06-12,Individual
+2009,Physiology or Medicine,1/3,10000000,10958504,not specified,835,Elizabeth H. Blackburn,female,1948-11-26,Oceania,Australia,not dead or organization,Individual
+2011,Peace,1/3,10000000,10545557,2011-10-07,869,Ellen Johnson Sirleaf,female,1938-10-29,Africa,Liberia,not dead or organization,Individual
+1902,Chemistry,1,141847,8059489,not specified,161,Emil Fischer,male,1852-10-09,Europe,Prussia,1919-07-15,Individual
+1901,Physiology or Medicine,1,150782,8567159,not specified,293,Emil von Behring,male,1854-03-15,Europe,Prussia,1917-03-31,Individual
+1959,Physics,1/2,220678,2704387,not specified,72,Emilio Segrè,male,1905-02-01,Europe,Italy,1989-04-22,Individual
+1946,Peace,1/2,121524,2503929,1946-11-14,506,Emily Greene Balch,female,1867-01-08,North America,USA,1961-01-09,Individual
+1938,Physics,1,155077,4543271,not specified,46,Enrico Fermi,male,1901-09-29,Europe,Italy,1954-11-28,Individual
+2014,Chemistry,1/3,8000000,8379888,2014-10-08,909,Eric Betzig,male,1960-01-13,North America,USA,not dead or organization,Individual
+2001,Physics,1/3,10000000,12295082,2001-10-09,738,Eric Cornell,male,1961-12-19,North America,USA,not dead or organization,Individual
+1995,Physiology or Medicine,1/3,7200000,9278351,1995-10-09,454,Eric F. Wieschaus,male,1947-06-08,North America,USA,not dead or organization,Individual
+2000,Physiology or Medicine,1/3,9000000,11333109,2000-10-09,724,Eric Kandel,male,1929-11-07,Europe,Austria,not dead or organization,Individual
+2007,Economic Sciences,1/3,10000000,11301989,2007-10-15,821,Eric S. Maskin,male,1950-12-12,North America,USA,not dead or organization,Individual
+1931,Literature,1,173206,5238085,not specified,604,Erik Axel Karlfeldt,male,1864-07-20,Europe,Sweden,1931-04-08,Individual
+1954,Literature,1,181647,2640218,not specified,625,Ernest Hemingway,male,1899-07-21,North America,USA,1961-07-02,Individual
+1939,Physics,1,148822,4227898,not specified,47,Ernest Lawrence,male,1901-08-08,North America,USA,1958-08-27,Individual
+1908,Chemistry,1,139800,7084459,not specified,167,Ernest Rutherford,male,1871-08-30,Oceania,New Zealand,1937-10-19,Individual
+1951,Physics,1/2,167612,2686090,not specified,57,Ernest T.S. Walton,male,1903-10-06,Europe,Ireland,1995-06-25,Individual
+1907,Peace,1/2,138796,7033581,1907-12-10,471,Ernesto Teodoro Moneta,male,1833-09-20,Europe,Austrian Empire,1918-02-10,Individual
+1945,Physiology or Medicine,1/3,121333,2499993,not specified,340,Ernst B. Chain,male,1906-06-19,Europe,Germany,1979-08-12,Individual
+1973,Chemistry,1/2,510000,3331882,1973-10-23,244,Ernst Otto Fischer,male,1918-11-10,Europe,Germany,2007-07-23,Individual
+1986,Physics,1/2,2000000,4098361,1986-10-15,127,Ernst Ruska,male,1906-12-25,Europe,Germany,1988-05-27,Individual
+1991,Physiology or Medicine,1/2,6000000,8673863,not specified,444,Erwin Neher,male,1944-03-20,Europe,Germany,not dead or organization,Individual
+1933,Physics,1/2,170332,5413093,not specified,39,Erwin Schrödinger,male,1887-08-12,Europe,Austria,1961-01-04,Individual
+2019,Economic Sciences,1/3,9000000,9000000,2019-10-14,983,Esther Duflo,female,1972-10-25,Europe,France,not dead or organization,Individual
+2013,Economic Sciences,1/3,8000000,8365867,2013-10-14,894,Eugene F. Fama,male,1939-02-14,North America,USA,not dead or organization,Individual
+1936,Literature,1,159850,4913422,not specified,608,Eugene O'Neill,male,1888-10-16,North America,USA,1953-11-27,Individual
+1963,Physics,1/2,265000,2839286,not specified,78,Eugene Wigner,male,1902-11-17,Europe,Austria-Hungary,1995-01-01,Individual
+1975,Literature,1,630000,3404179,1975-10-23,651,Eugenio Montale,male,1896-10-12,Europe,Italy,1981-09-12,Individual
+2012,Peace,1,8000000,8361204,2012-10-12,881,European Union (EU),organization,1952-00-00,not specified,not specified,not dead or organization,Organization
+1974,Literature,1/2,550000,3263449,not specified,649,Eyvind Johnson,male,1900-07-29,Europe,Sweden,1976-08-25,Individual
+2016,Physics,1/4,8000000,8301051,2016-10-04,929,F. Duncan M. Haldane,male,1951-09-14,Europe,United Kingdom,not dead or organization,Individual
+1995,Chemistry,1/3,7200000,9278351,1995-10-11,283,F. Sherwood Rowland,male,1927-06-28,North America,USA,2012-03-10,Individual
+1993,Peace,1/2,6700000,9044276,1993-10-15,556,F.W. de Klerk,male,1936-03-18,Africa,South Africa,not dead or organization,Individual
+1952,Physics,1/2,171135,2546652,not specified,58,Felix Bloch,male,1905-10-23,Europe,Switzerland,1983-09-10,Individual
+1964,Physiology or Medicine,1/2,273000,2828039,not specified,379,Feodor Lynen,male,1911-04-06,Europe,Germany,1979-08-06,Individual
+1909,Physics,1/2,139800,7084459,not specified,14,Ferdinand Braun,male,1850-06-06,Europe,Hesse-Kassel,1918-04-20,Individual
+1927,Peace,1/2,126501,3593778,1927-12-10,492,Ferdinand Buisson,male,1841-12-20,Europe,France,1932-02-16,Individual
+1998,Physiology or Medicine,1/3,7600000,9713701,not specified,460,Ferid Murad,male,1936-09-14,North America,USA,not dead or organization,Individual
+2004,Economic Sciences,1/2,10000000,11762861,2004-10-11,786,Finn E. Kydland,male,1943-12-01,Europe,Norway,not dead or organization,Individual
+2018,Chemistry,1/2,9000000,9000000,2018-10-03,963,Frances H. Arnold,female,1956-07-25,North America,USA,not dead or organization,Individual
+1962,Physiology or Medicine,1/3,257220,2836985,not specified,372,Francis Crick,male,1916-06-08,Europe,United Kingdom,2004-07-28,Individual
+1922,Chemistry,1,122483,3145967,not specified,180,Francis W. Aston,male,1877-09-01,Europe,United Kingdom,1945-11-20,Individual
+1985,Economic Sciences,1,1800000,3843964,1985-10-15,699,Franco Modigliani,male,1918-06-18,Europe,Italy,2003-09-25,Individual
+2013,Physics,1/2,8000000,8365867,2013-10-08,887,François Englert,male,1932-11-06,Europe,Belgium,not dead or organization,Individual
+1965,Physiology or Medicine,1/3,282000,2782895,not specified,380,François Jacob,male,1920-06-17,Europe,France,2013-04-19,Individual
+1952,Literature,1,171135,2546652,not specified,623,François Mauriac,male,1885-10-11,Europe,France,1970-09-01,Individual
+2008,Physiology or Medicine,1/4,10000000,10926573,2008-10-06,824,Françoise Barré-Sinoussi,female,1947-07-30,Europe,France,not dead or organization,Individual
+1929,Peace,1,172760,4907955,1930-12-10,494,Frank B. Kellogg,male,1856-12-22,North America,USA,1937-12-21,Individual
+2004,Physics,1/3,10000000,11762861,2004-10-05,778,Frank Wilczek,male,1951-05-15,North America,USA,not dead or organization,Individual
+1939,Literature,1,148822,4227898,not specified,613,Frans Eemil Sillanpää,male,1888-09-16,Europe,Russian Empire,1964-06-03,Individual
+1935,Chemistry,1/2,159917,4997406,not specified,193,Frédéric Joliot,male,1900-03-19,Europe,France,1958-08-14,Individual
+1904,Literature,1/2,140859,7767960,not specified,573,Frédéric Mistral,male,1830-09-08,Europe,France,1914-03-25,Individual
+1901,Peace,1/2,150782,8567159,1901-12-10,463,Frédéric Passy,male,1822-05-20,Europe,France,1912-06-12,Individual
+1954,Physiology or Medicine,1/3,181647,2640218,not specified,358,Frederick C. Robbins,male,1916-08-25,North America,USA,2003-08-04,Individual
+1923,Physiology or Medicine,1/2,114935,3169164,not specified,313,Frederick G. Banting,male,1891-11-14,North America,Canada,1941-02-21,Individual
+1995,Physics,1/2,7200000,9278351,1995-10-11,148,Frederick Reines,male,1918-03-16,North America,USA,1998-08-26,Individual
+1958,Chemistry,1,214559,2646698,not specified,222,Frederick Sanger,male,1918-08-13,Europe,United Kingdom,2013-11-19,Individual
+1921,Chemistry,1,121573,2532771,not specified,179,Frederick Soddy,male,1877-09-02,Europe,United Kingdom,1956-09-22,Individual
+1908,Peace,1/2,139800,7084459,1908-12-10,474,Fredrik Bajer,male,1837-04-21,Europe,Denmark,1922-01-22,Individual
+1922,Peace,1,122483,3145967,1922-12-10,487,Fridtjof Nansen,male,1861-10-10,Europe,Norway,1930-05-13,Individual
+1931,Chemistry,1/2,173206,5238085,not specified,190,Friedrich Bergius,male,1884-10-11,Europe,Germany,1949-03-30,Individual
+1974,Economic Sciences,1/2,550000,3263449,1974-10-09,685,Friedrich von Hayek,male,1899-05-08,Europe,Austria,1992-03-23,Individual
+1947,Peace,1/2,146115,2914528,1947-10-30,508,Friends Service Council,organization,1647-00-00,Europe,United Kingdom,not dead or organization,Organization
+1953,Physics,1,175293,2567769,not specified,60,Frits Zernike,male,1888-07-16,Europe,the Netherlands,1966-03-10,Individual
+1918,Chemistry,1,138198,2847486,not specified,177,Fritz Haber,male,1868-12-09,Europe,Prussia,1934-01-29,Individual
+1953,Physiology or Medicine,1/2,175293,2567769,not specified,355,Fritz Lipmann,male,1899-06-12,Europe,Germany,1986-07-24,Individual
+1923,Chemistry,1,114935,3169164,not specified,181,Fritz Pregl,male,1869-09-03,Europe,Austria-Hungary,1930-12-13,Individual
+1982,Literature,1,1150000,3102518,not specified,659,Gabriel García Márquez,male,1927-03-06,South America,Colombia,2014-04-17,Individual
+1908,Physics,1,139800,7084459,not specified,12,Gabriel Lippmann,male,1845-08-16,Europe,Luxembourg,1921-07-13,Individual
+1945,Literature,1,121333,2499993,not specified,615,Gabriela Mistral,female,1889-04-07,South America,Chile,1957-01-10,Individual
+2000,Literature,1,9000000,11333109,2000-10-12,734,Gao Xingjian,male,1940-01-04,Asia,China,not dead or organization,Individual
+1992,Economic Sciences,1,6500000,9184250,1992-10-13,708,Gary Becker,male,1930-12-02,North America,USA,2014-05-03,Individual
+1973,Chemistry,1/2,510000,3331882,1973-10-23,245,Geoffrey Wilkinson,male,1921-07-14,Europe,United Kingdom,1996-09-26,Individual
+1961,Physiology or Medicine,1,250233,2878447,not specified,371,Georg von Békésy,male,1899-06-03,Europe,Hungary,1972-06-13,Individual
+1979,Chemistry,1/2,800000,2988048,1979-10-15,253,Georg Wittig,male,1897-06-16,Europe,Germany,1987-08-26,Individual
+2001,Economic Sciences,1/3,10000000,12295082,2001-10-10,744,George A. Akerlof,male,1940-06-17,North America,USA,not dead or organization,Individual
+1994,Chemistry,1,7000000,9249471,1994-10-12,280,George A. Olah,male,1927-05-22,Europe,Hungary,2017-03-08,Individual
+1958,Physiology or Medicine,1/4,214559,2646698,not specified,364,George Beadle,male,1903-10-22,North America,USA,1989-06-09,Individual
+1925,Literature,1,118165,3211005,not specified,596,George Bernard Shaw,male,1856-07-26,Europe,Ireland,1950-11-02,Individual
+1953,Peace,1,175293,2567769,1953-10-30,514,George C. Marshall,male,1880-12-31,North America,USA,1959-10-16,Individual
+1980,Physiology or Medicine,1/3,880000,2889667,1980-10-10,421,George D. Snell,male,1903-12-19,North America,USA,1996-06-06,Individual
+1943,Chemistry,1,123691,2520876,not specified,201,George de Hevesy,male,1885-08-01,Europe,Austria-Hungary,1966-07-05,Individual
+1974,Physiology or Medicine,1/3,550000,3263449,not specified,405,George E. Palade,male,1912-11-19,Europe,Romania,2008-10-07,Individual
+2009,Physics,1/4,10000000,10958504,2009-10-06,840,George E. Smith,male,1930-05-10,North America,USA,not dead or organization,Individual
+2006,Physics,1/2,10000000,11552680,2006-10-03,805,George F. Smoot,male,1945-02-20,North America,USA,not dead or organization,Individual
+1988,Physiology or Medicine,1/3,2500000,4645689,not specified,439,George H. Hitchings,male,1905-04-18,North America,USA,1998-02-27,Individual
+1934,Physiology or Medicine,1/3,162608,5167627,not specified,326,George H. Whipple,male,1878-08-28,North America,USA,1976-02-01,Individual
+1982,Economic Sciences,1,1150000,3102518,1982-10-20,696,George J. Stigler,male,1911-01-17,North America,USA,1991-12-01,Individual
+2018,Chemistry,1/4,9000000,9000000,2018-10-03,964,George P. Smith,male,1941-03-10,North America,USA,not dead or organization,Individual
+1937,Physics,1/2,158463,4716161,not specified,45,George Paget Thomson,male,1892-05-03,Europe,United Kingdom,1975-09-10,Individual
+1967,Chemistry,1/4,320000,2843602,not specified,235,George Porter,male,1920-12-06,Europe,United Kingdom,2002-08-31,Individual
+1934,Physiology or Medicine,1/3,162608,5167627,not specified,327,George R. Minot,male,1885-12-02,North America,USA,1950-02-25,Individual
+1967,Physiology or Medicine,1/3,320000,2843602,not specified,387,George Wald,male,1906-11-18,North America,USA,1997-04-12,Individual
+1992,Physics,1,6500000,9184250,1992-10-14,142,Georges Charpak,male,1924-08-01,Europe,Poland,2010-09-29,Individual
+1984,Physiology or Medicine,1/3,1650000,3782090,not specified,430,Georges J.F. Köhler,male,1946-04-17,Europe,Germany,1995-03-01,Individual
+1958,Peace,1,214559,2646698,1958-11-10,517,Georges Pire,male,1910-02-10,Europe,Belgium,1969-01-30,Individual
+1972,Physiology or Medicine,1/2,480000,3345725,not specified,398,Gerald M. Edelman,male,1929-07-01,North America,USA,2014-05-17,Individual
+1983,Economic Sciences,1,1500000,3715324,1983-10-17,697,Gerard Debreu,male,1921-07-04,Europe,France,2004-12-31,Individual
+2018,Physics,1/4,9000000,9000000,2018-10-02,961,Gérard Mourou,male,1944-06-22,Europe,France,not dead or organization,Individual
+1999,Physics,1/2,7900000,10049186,1999-10-12,158,Gerardus 't Hooft,male,1946-07-05,Europe,the Netherlands,not dead or organization,Individual
+1986,Physics,1/4,2000000,4098361,1986-10-15,128,Gerd Binnig,male,1947-07-20,Europe,West Germany,not dead or organization,Individual
+1939,Physiology or Medicine,1,148822,4227898,not specified,334,Gerhard Domagk,male,1895-10-30,Europe,Germany,1964-04-24,Individual
+2007,Chemistry,1,10000000,11301989,2007-10-10,816,Gerhard Ertl,male,1936-10-10,Europe,Germany,not dead or organization,Individual
+1971,Chemistry,1,450000,3321850,not specified,240,Gerhard Herzberg,male,1904-12-25,Europe,Germany,1999-03-03,Individual
+1912,Literature,1,140476,6753654,not specified,582,Gerhart Hauptmann,male,1862-11-15,Europe,Prussia,1946-06-06,Individual
+1988,Physiology or Medicine,1/3,2500000,4645689,not specified,438,Gertrude B. Elion,female,1918-01-23,North America,USA,1999-02-21,Individual
+1947,Physiology or Medicine,1/4,146115,2914528,not specified,344,Gerty Cori,female,1896-08-15,Europe,Austria-Hungary,1957-10-26,Individual
+1963,Literature,1,265000,2839286,not specified,635,Giorgos Seferis,male,1900-03-13,Asia,Ottoman Empire,1971-09-20,Individual
+1906,Literature,1,138536,7421571,not specified,576,Giosuè Carducci,male,1835-07-27,Europe,Tuscany,1907-02-16,Individual
+1963,Chemistry,1/2,265000,2839286,not specified,229,Giulio Natta,male,1903-02-26,Europe,Italy,1979-05-02,Individual
+1951,Chemistry,1/2,167612,2686090,not specified,213,Glenn T. Seaborg,male,1912-04-19,North America,USA,1999-02-25,Individual
+1979,Physiology or Medicine,1/2,800000,2988048,1979-10-11,418,Godfrey N. Hounsfield,male,1919-08-28,Europe,United Kingdom,2004-08-12,Individual
+2006,Peace,1/2,10000000,11552680,2006-10-13,810,Grameen Bank,organization,1976-00-00,Asia,Bangladesh,not dead or organization,Organization
+1926,Literature,1,116960,3273134,not specified,597,Grazia Deledda,female,1871-09-27,Europe,Italy,1936-08-15,Individual
+2019,Physiology or Medicine,1/3,9000000,9000000,2019-10-07,972,Gregg L. Semenza,male,1956-07-12,North America,USA,not dead or organization,Individual
+1909,Physics,1/2,139800,7084459,not specified,13,Guglielmo Marconi,male,1874-04-25,Europe,Italy,1937-07-20,Individual
+1974,Economic Sciences,1/2,550000,3263449,1974-10-09,684,Gunnar Myrdal,male,1898-12-06,Europe,Sweden,1987-05-17,Individual
+1999,Physiology or Medicine,1,7900000,10049186,1999-10-11,461,Günter Blobel,male,1936-05-21,Europe,Germany,2018-02-18,Individual
+1999,Literature,1,7900000,10049186,not specified,676,Günter Grass,male,1927-10-16,Europe,Free City of Danzig,2015-04-13,Individual
+1912,Physics,1,140476,6753654,not specified,17,Gustaf Dalén,male,1869-11-30,Europe,Sweden,1937-12-09,Individual
+1925,Physics,1/2,118165,3211005,not specified,31,Gustav Hertz,male,1887-07-22,Europe,Germany,1975-10-30,Individual
+1926,Peace,1/2,116960,3273134,1926-12-10,491,Gustav Stresemann,male,1878-05-10,Europe,Germany,1929-10-03,Individual
+2004,Physics,1/3,10000000,11762861,2004-10-05,777,H. David Politzer,male,1949-08-31,North America,USA,not dead or organization,Individual
+1968,Physiology or Medicine,1/3,350000,3052326,not specified,389,H. Gobind Khorana,male,1922-01-09,Asia,India,2011-11-09,Individual
+2002,Physiology or Medicine,1/3,10000000,12034660,2002-10-07,751,H. Robert Horvitz,male,1947-05-08,North America,USA,not dead or organization,Individual
+1955,Literature,1,190214,2681588,1955-10-27,626,Halldór Laxness,male,1902-04-23,Europe,Iceland,1998-02-08,Individual
+1978,Physiology or Medicine,1/3,725000,2898454,not specified,416,Hamilton O. Smith,male,1931-08-23,North America,USA,not dead or organization,Individual
+1970,Physics,1/2,400000,3177966,1970-10-27,91,Hannes Alfvén,male,1908-05-30,Europe,Sweden,1995-04-02,Individual
+1967,Physics,1,320000,2843602,not specified,88,Hans Bethe,male,1906-07-02,Europe,Germany,2005-03-06,Individual
+1930,Chemistry,1,172947,5066807,not specified,188,Hans Fischer,male,1881-07-27,Europe,Germany,1945-03-31,Individual
+1989,Physics,1/4,3000000,5242311,1989-10-12,136,Hans G. Dehmelt,male,1922-09-09,Europe,Prussia,2017-03-07,Individual
+1953,Physiology or Medicine,1/2,175293,2567769,not specified,354,Hans Krebs,male,1900-08-25,Europe,Germany,1981-11-22,Individual
+1935,Physiology or Medicine,1,159917,4997406,not specified,329,Hans Spemann,male,1869-06-27,Europe,Württemberg,1941-09-12,Individual
+1929,Chemistry,1/2,172760,4907955,not specified,187,Hans von Euler-Chelpin,male,1873-02-15,Europe,Germany,1964-11-06,Individual
+2008,Physiology or Medicine,1/2,10000000,10926573,2008-10-06,823,Harald zur Hausen,male,1936-03-11,Europe,Germany,not dead or organization,Individual
+1934,Chemistry,1,162608,5167627,not specified,192,Harold C. Urey,male,1893-04-29,North America,USA,1981-01-05,Individual
+1989,Physiology or Medicine,1/2,3000000,5242311,1989-10-09,441,Harold E. Varmus,male,1939-12-18,North America,USA,not dead or organization,Individual
+2005,Literature,1,10000000,11711430,2005-10-13,801,Harold Pinter,male,1930-10-10,Europe,United Kingdom,2008-12-24,Individual
+1990,Economic Sciences,1/3,4000000,6329114,1990-10-16,704,Harry M. Markowitz,male,1927-08-24,North America,USA,not dead or organization,Individual
+1974,Literature,1/2,550000,3263449,not specified,650,Harry Martinson,male,1904-05-06,Europe,Sweden,1978-02-11,Individual
+1988,Chemistry,1/3,2500000,4645689,1988-10-19,272,Hartmut Michel,male,1948-07-18,Europe,West Germany,not dead or organization,Individual
+1913,Physics,1,143010,6875481,not specified,18,Heike Kamerlingh Onnes,male,1853-09-21,Europe,the Netherlands,1926-02-21,Individual
+1972,Literature,1,480000,3345725,not specified,647,Heinrich Böll,male,1917-12-21,Europe,Germany,1985-07-16,Individual
+1986,Physics,1/4,2000000,4098361,1986-10-15,129,Heinrich Rohrer,male,1933-06-06,Europe,Switzerland,2013-05-16,Individual
+1927,Chemistry,1,126501,3593778,not specified,184,Heinrich Wieland,male,1877-06-04,Europe,Germany,1957-08-05,Individual
+1902,Physics,1/2,141847,8059489,not specified,2,Hendrik A. Lorentz,male,1853-07-18,Europe,the Netherlands,1928-02-04,Individual
+1903,Physics,1/2,141358,7795478,not specified,4,Henri Becquerel,male,1852-12-15,Europe,France,1908-08-25,Individual
+1927,Literature,1,126501,3593778,not specified,600,Henri Bergson,male,1859-10-18,Europe,France,1941-01-04,Individual
+1913,Peace,1,143010,6875481,1913-12-10,481,Henri La Fontaine,male,1854-04-22,Europe,Belgium,1943-05-14,Individual
+1906,Chemistry,1,138536,7421571,not specified,165,Henri Moissan,male,1852-09-28,Europe,France,1907-02-20,Individual
+1943,Physiology or Medicine,1/2,123691,2520876,not specified,335,Henrik Dam,male,1895-02-21,Europe,Denmark,1976-04-17,Individual
+1917,Literature,1/2,133823,3920596,1917-11-08,587,Henrik Pontoppidan,male,1857-07-24,Europe,Denmark,1943-08-21,Individual
+1901,Peace,1/2,150782,8567159,1901-12-10,462,Henry Dunant,male,1828-05-08,Europe,Switzerland,1910-10-30,Individual
+1973,Peace,1/2,510000,3331882,1973-10-17,530,Henry Kissinger,male,1923-05-27,Europe,Germany,not dead or organization,Individual
+1983,Chemistry,1,1500000,3715324,1983-10-19,260,Henry Taube,male,1915-11-30,North America,Canada,2005-11-16,Individual
+1990,Physics,1/3,4000000,6329114,1990-10-17,139,Henry W. Kendall,male,1926-12-09,North America,USA,1999-02-15,Individual
+1905,Literature,1,138089,7615202,not specified,575,Henryk Sienkiewicz,male,1846-05-05,Europe,Poland,1916-11-15,Individual
+1985,Chemistry,1/2,1800000,3843964,1985-10-15,262,Herbert A. Hauptman,male,1917-02-14,North America,USA,2011-10-23,Individual
+1979,Chemistry,1/2,800000,2988048,1979-10-15,252,Herbert C. Brown,male,1912-05-22,Europe,United Kingdom,2004-12-19,Individual
+2000,Physics,1/4,9000000,11333109,2000-10-10,727,Herbert Kroemer,male,1928-08-25,Europe,Germany,not dead or organization,Individual
+1944,Physiology or Medicine,1/2,121841,2510460,not specified,338,Herbert S. Gasser,male,1888-07-05,North America,USA,1963-05-11,Individual
+1978,Economic Sciences,1,725000,2898454,1978-10-16,691,Herbert Simon,male,1916-06-15,North America,USA,2001-02-09,Individual
+1946,Literature,1,121524,2503929,not specified,617,Hermann Hesse,male,1877-07-02,Europe,Germany,1962-08-09,Individual
+1946,Physiology or Medicine,1,121524,2503929,not specified,342,Hermann J. Muller,male,1890-12-21,North America,USA,1967-04-05,Individual
+1953,Chemistry,1,175293,2567769,not specified,216,Hermann Staudinger,male,1881-03-23,Europe,Germany,1965-09-08,Individual
+2009,Literature,1,10000000,10958504,2009-10-08,844,Herta Müller,female,1953-08-17,Europe,Romania,not dead or organization,Individual
+2000,Chemistry,1/3,9000000,11333109,2000-10-10,731,Hideki Shirakawa,male,1936-08-20,Asia,Japan,not dead or organization,Individual
+1949,Physics,1,156290,2930438,not specified,54,Hideki Yukawa,male,1907-01-23,Asia,Japan,1981-09-08,Individual
+2014,Physics,1/3,8000000,8379888,2014-10-07,907,Hiroshi Amano,male,1960-09-11,Asia,Japan,not dead or organization,Individual
+1921,Peace,1/2,121573,2532771,1921-12-10,485,Hjalmar Branting,male,1860-11-23,Europe,Sweden,1925-02-24,Individual
+1998,Physics,1/3,7600000,9713701,1998-10-13,156,Horst L. Störmer,male,1949-04-06,Europe,West Germany,not dead or organization,Individual
+1975,Physiology or Medicine,1/3,630000,3404179,1975-10-16,408,Howard M. Temin,male,1934-12-10,North America,USA,1994-02-09,Individual
+1955,Physiology or Medicine,1,190214,2681588,1955-10-20,359,Hugo Theorell,male,1903-07-06,Europe,Sweden,1982-08-15,Individual
+1958,Physics,1/3,214559,2646698,not specified,71,Igor Y. Tamm,male,1895-07-08,Europe,Russia,1971-04-12,Individual
+1958,Physics,1/3,214559,2646698,not specified,721,Il´ja M. Frank,male,1908-10-23,Europe,Russia,1990-06-22,Individual
+1908,Physiology or Medicine,1/2,139800,7084459,not specified,301,Ilya Mechnikov,male,1845-05-15,Europe,Russian Empire,1916-07-15,Individual
+1977,Chemistry,1,700000,3080986,1977-10-11,250,Ilya Prigogine,male,1917-01-25,Europe,Russia,2003-05-28,Individual
+2002,Literature,1,10000000,12034660,2002-10-10,761,Imre Kertész,male,1929-11-09,Europe,Hungary,2016-03-31,Individual
+1904,Peace,1,140859,7767960,1904-12-10,467,Institute of International Law,organization,1873-00-00,Europe,Belgium,not dead or organization,Organization
+2007,Peace,1/2,10000000,11301989,2007-10-12,818,Intergovernmental Panel on Climate Change,organization,1988-00-00,North America,USA,not dead or organization,Organization
+2005,Peace,1/2,10000000,11711430,2005-10-07,797,International Atomic Energy Agency,organization,1957-00-00,Europe,Austria,not dead or organization,Organization
+2017,Peace,1,9000000,9176183,2017-10-06,948,International Campaign to Abolish Nuclear Weapons (ICAN),organization,2007-00-00,Oceania,Australia,not dead or organization,Organization
+1997,Peace,1/2,7500000,9572839,1997-10-10,564,International Campaign to Ban Landmines,organization,1992-00-00,North America,USA,not dead or organization,Organization
+1917,Peace,1,133823,3920596,1917-12-10,482,International Committee of the Red Cross,organization,1863-00-00,Europe,Switzerland,not dead or organization,Organization
+1969,Peace,1,375000,3181561,1969-10-20,527,International Labour Organization,organization,1919-00-00,Europe,Switzerland,not dead or organization,Organization
+1985,Peace,1,1800000,3843964,1985-10-05,547,International Physicians for the Prevention of Nuclear War,organization,1980-00-00,North America,USA,not dead or organization,Organization
+1935,Chemistry,1/2,159917,4997406,not specified,194,Irène Joliot-Curie,female,1897-09-12,Europe,France,1956-03-17,Individual
+1932,Chemistry,1,171753,5279293,not specified,191,Irving Langmuir,male,1881-01-31,North America,USA,1957-08-16,Individual
+2004,Chemistry,1/3,10000000,11762861,2004-10-06,781,Irwin Rose,male,1926-07-16,North America,USA,2015-06-03,Individual
+1978,Literature,1,725000,2898454,not specified,654,Isaac Bashevis Singer,male,1904-07-14,Europe,Russian Empire,1991-07-24,Individual
+2014,Physics,1/3,8000000,8379888,2014-10-07,906,Isamu Akasaki,male,1929-01-30,Asia,Japan,not dead or organization,Individual
+1944,Physics,1,121841,2510460,not specified,49,Isidor Isaac Rabi,male,1898-07-29,Europe,Austria-Hungary,1988-01-11,Individual
+1933,Literature,1,170332,5413093,not specified,606,Ivan Bunin,male,1870-10-22,Europe,Russia,1953-11-08,Individual
+1904,Physiology or Medicine,1,140859,7767960,not specified,296,Ivan Pavlov,male,1849-09-14,Europe,Russia,1936-02-27,Individual
+1973,Physics,1/4,510000,3331882,1973-10-23,98,Ivar Giaever,male,1929-04-05,Europe,Norway,not dead or organization,Individual
+1961,Literature,1,250233,2878447,not specified,633,Ivo Andric,male,1892-10-10,Europe,Bosnia,1975-03-13,Individual
+1987,Physics,1/2,2175000,4274764,1987-10-14,130,J. Georg Bednorz,male,1950-05-16,Europe,West Germany,not dead or organization,Individual
+1963,Physics,1/4,265000,2839286,not specified,80,J. Hans D. Jensen,male,1907-06-25,Europe,Germany,1973-02-11,Individual
+2003,Literature,1,10000000,11807305,2003-10-02,763,J. M. Coetzee,male,1940-02-09,Africa,South Africa,not dead or organization,Individual
+1989,Physiology or Medicine,1/2,3000000,5242311,1989-10-09,440,J. Michael Bishop,male,1936-02-22,North America,USA,not dead or organization,Individual
+2016,Physics,1/4,8000000,8301051,2016-10-04,930,J. Michael Kosterlitz,male,1943-06-22,Europe,United Kingdom,not dead or organization,Individual
+2005,Physiology or Medicine,1/2,10000000,11711430,2005-10-03,790,J. Robin Warren,male,1937-06-11,Oceania,Australia,not dead or organization,Individual
+1906,Physics,1,138536,7421571,not specified,10,J.J. Thomson,male,1856-12-18,Europe,United Kingdom,1940-08-30,Individual
+1922,Literature,1,122483,3145967,not specified,592,Jacinto Benavente,male,1866-08-12,Europe,Spain,1954-07-14,Individual
+2000,Physics,1/2,9000000,11333109,2000-10-10,728,Jack Kilby,male,1923-11-08,North America,USA,2005-06-20,Individual
+1988,Physics,1/3,2500000,4645689,1988-10-19,134,Jack Steinberger,male,1921-05-25,Europe,Germany,not dead or organization,Individual
+2009,Physiology or Medicine,1/3,10000000,10958504,not specified,837,Jack W. Szostak,male,1952-11-09,Europe,United Kingdom,not dead or organization,Individual
+1901,Chemistry,1,150782,8567159,not specified,160,Jacobus H. van 't Hoff,male,1852-08-30,Europe,the Netherlands,1911-03-01,Individual
+2017,Chemistry,1/3,9000000,9176183,2017-10-04,944,Jacques Dubochet,male,1942-06-08,Europe,Switzerland,not dead or organization,Individual
+1965,Physiology or Medicine,1/3,282000,2782895,not specified,382,Jacques Monod,male,1910-02-09,Europe,France,1976-05-31,Individual
+1996,Economic Sciences,1/2,7400000,9490424,1996-10-08,715,James A. Mirrlees,male,1936-07-05,Europe,Scotland,2018-08-29,Individual
+1946,Chemistry,1/2,121524,2503929,not specified,204,James B. Sumner,male,1887-11-19,North America,USA,1955-08-12,Individual
+1935,Physics,1,159917,4997406,not specified,41,James Chadwick,male,1891-10-20,Europe,United Kingdom,1974-07-24,Individual
+1980,Physics,1/2,880000,2889667,1980-10-12,116,James Cronin,male,1931-09-29,North America,USA,2016-08-25,Individual
+1977,Economic Sciences,1/2,700000,3080986,1977-10-14,690,James E. Meade,male,1907-06-23,Europe,United Kingdom,1995-12-22,Individual
+2013,Physiology or Medicine,1/3,8000000,8365867,not specified,884,James E. Rothman,male,1950-11-03,North America,USA,not dead or organization,Individual
+1925,Physics,1/2,118165,3211005,not specified,30,James Franck,male,1882-08-26,Europe,Germany,1964-05-21,Individual
+2000,Economic Sciences,1/2,9000000,11333109,2000-10-11,732,James J. Heckman,male,1944-04-19,North America,USA,not dead or organization,Individual
+1986,Economic Sciences,1,2000000,4098361,1986-10-16,700,James M. Buchanan Jr.,male,1919-10-03,North America,USA,2013-01-09,Individual
+2018,Physiology or Medicine,1/2,9000000,9000000,not specified,958,James P. Allison,male,1948-08-07,North America,USA,not dead or organization,Individual
+2019,Physics,1/2,9000000,9000000,2019-10-08,973,James Peebles,male,1935-04-25,North America,Canada,not dead or organization,Individual
+1975,Physics,1/3,630000,3404179,1975-10-17,104,James Rainwater,male,1917-12-09,North America,USA,1986-03-31,Individual
+1981,Economic Sciences,1,1000000,2929688,1981-10-13,695,James Tobin,male,1918-03-05,North America,USA,2002-03-11,Individual
+1962,Physiology or Medicine,1/3,257220,2836985,not specified,373,James Watson,male,1928-04-06,North America,USA,not dead or organization,Individual
+1969,Economic Sciences,1/2,375000,3181561,not specified,678,Jan Tinbergen,male,1903-04-12,Europe,the Netherlands,1994-06-09,Individual
+1931,Peace,1/2,173206,5238085,1931-12-10,496,Jane Addams,female,1860-09-06,North America,USA,1935-05-21,Individual
+1959,Chemistry,1,220678,2704387,not specified,223,Jaroslav Heyrovsky,male,1890-12-20,Europe,Austria-Hungary,1967-03-27,Individual
+1984,Literature,1,1650000,3782090,not specified,661,Jaroslav Seifert,male,1901-09-23,Europe,Austria-Hungary,1986-01-10,Individual
+1926,Physics,1,116960,3273134,not specified,32,Jean Baptiste Perrin,male,1870-09-30,Europe,France,1942-04-17,Individual
+1980,Physiology or Medicine,1/3,880000,2889667,1980-10-10,420,Jean Dausset,male,1916-10-19,Europe,France,2009-06-06,Individual
+2014,Economic Sciences,1,8000000,8379888,2014-10-13,915,Jean Tirole,male,1953-08-09,Europe,France,not dead or organization,Individual
+2008,Literature,1,10000000,10926573,2008-10-09,832,Jean-Marie Gustave Le Clézio,male,1940-04-13,Europe,France,not dead or organization,Individual
+1987,Chemistry,1/3,2175000,4274764,1987-10-14,268,Jean-Marie Lehn,male,1939-09-30,Europe,France,not dead or organization,Individual
+1964,Literature,1,273000,2828039,not specified,637,Jean-Paul Sartre,male,1905-06-21,Europe,France,1980-04-15,Individual
+2016,Chemistry,1/3,8000000,8301051,2016-10-05,931,Jean-Pierre Sauvage,male,1944-10-21,Europe,France,not dead or organization,Individual
+2017,Physiology or Medicine,1/3,9000000,9176183,not specified,938,Jeffrey C. Hall,male,1945-05-03,North America,USA,not dead or organization,Individual
+1997,Chemistry,1/2,7500000,9572839,1997-10-15,289,Jens C. Skou,male,1918-10-08,Europe,Denmark,2018-05-28,Individual
+1990,Physics,1/3,4000000,6329114,1990-10-17,138,Jerome I. Friedman,male,1930-03-28,North America,USA,not dead or organization,Individual
+1985,Chemistry,1/2,1800000,3843964,1985-10-15,263,Jerome Karle,male,1918-06-18,North America,USA,2013-06-06,Individual
+2002,Peace,1,10000000,12034660,2002-10-11,762,Jimmy Carter,male,1924-10-01,North America,USA,not dead or organization,Individual
+2017,Chemistry,1/3,9000000,9176183,2017-10-04,945,Joachim Frank,male,1940-09-12,Europe,Germany,not dead or organization,Individual
+1997,Peace,1/2,7500000,9572839,1997-10-10,565,Jody Williams,female,1950-10-09,North America,USA,not dead or organization,Individual
+1988,Chemistry,1/3,2500000,4645689,1988-10-19,270,Johann Deisenhofer,male,1943-09-30,Europe,Germany,not dead or organization,Individual
+1910,Physics,1,140703,7130220,not specified,15,Johannes Diderik van der Waals,male,1837-11-23,Europe,the Netherlands,1923-03-08,Individual
+1926,Physiology or Medicine,1,116960,3273134,not specified,316,Johannes Fibiger,male,1867-04-23,Europe,Denmark,1928-01-30,Individual
+1919,Physics,1,133127,2377268,not specified,24,Johannes Stark,male,1874-04-15,Europe,Germany,1957-06-21,Individual
+1944,Literature,1,121841,2510460,not specified,614,Johannes V. Jensen,male,1873-01-20,Europe,Denmark,1950-11-25,Individual
+2002,Chemistry,1/4,10000000,12034660,2002-10-09,756,John B. Fenn,male,1917-06-15,North America,USA,2010-12-10,Individual
+2019,Chemistry,1/3,9000000,9000000,2019-10-09,976,John B. Goodenough,male,1922-07-25,Europe,Germany,not dead or organization,Individual
+1956,Physics,1/3,200123,2699501,not specified,66,John Bardeen,male,1908-05-23,North America,USA,1991-01-30,Individual
+1994,Economic Sciences,1/3,7000000,9249471,1994-10-11,711,John C. Harsanyi,male,1920-05-29,Europe,Hungary,2000-08-09,Individual
+1962,Chemistry,1/2,257220,2836985,not specified,227,John C. Kendrew,male,1917-03-24,Europe,United Kingdom,1997-08-23,Individual
+2006,Physics,1/2,10000000,11552680,2006-10-03,804,John C. Mather,male,1946-08-07,North America,USA,not dead or organization,Individual
+1986,Chemistry,1/3,2000000,4098361,1986-10-15,266,John C. Polanyi,male,1929-01-23,Europe,Germany,not dead or organization,Individual
+1951,Physics,1/2,167612,2686090,not specified,56,John Cockcroft,male,1897-05-27,Europe,United Kingdom,1967-09-18,Individual
+1975,Chemistry,1/2,630000,3404179,1975-10-17,247,John Cornforth,male,1917-09-07,Oceania,Australia,2013-12-08,Individual
+2002,Physiology or Medicine,1/3,10000000,12034660,2002-10-07,752,John E. Sulston,male,1942-03-27,Europe,United Kingdom,2018-03-06,Individual
+1997,Chemistry,1/4,7500000,9572839,1997-10-15,288,John E. Walker,male,1941-01-07,Europe,United Kingdom,not dead or organization,Individual
+1954,Physiology or Medicine,1/3,181647,2640218,not specified,356,John F. Enders,male,1897-02-10,North America,USA,1985-09-08,Individual
+1994,Economic Sciences,1/3,7000000,9249471,1994-10-11,712,John F. Nash Jr.,male,1928-06-13,North America,USA,2015-05-23,Individual
+1932,Literature,1,171753,5279293,not specified,605,John Galsworthy,male,1867-08-14,Europe,United Kingdom,1933-01-31,Individual
+1946,Chemistry,1/4,121524,2503929,not specified,205,John H. Northrop,male,1891-07-05,North America,USA,1987-05-27,Individual
+1977,Physics,1/3,700000,3080986,1977-10-11,109,John H. van Vleck,male,1899-03-13,North America,USA,1980-10-27,Individual
+1998,Peace,1/2,7600000,9713701,1998-10-16,566,John Hume,male,1937-01-18,Europe,Northern Ireland,not dead or organization,Individual
+2005,Physics,1/4,10000000,11711430,2005-10-04,792,John L. Hall,male,1934-08-21,North America,USA,not dead or organization,Individual
+1923,Physiology or Medicine,1/2,114935,3169164,not specified,314,John Macleod,male,1876-09-06,Europe,Scotland,1935-03-16,Individual
+2014,Physiology or Medicine,1/2,8000000,8379888,not specified,903,John O'Keefe,male,1939-11-18,North America,USA,not dead or organization,Individual
+1998,Chemistry,1/2,7600000,9713701,1998-10-13,291,John Pople,male,1925-10-31,Europe,United Kingdom,2004-03-15,Individual
+1972,Economic Sciences,1/2,480000,3345725,1972-10-25,681,John R. Hicks,male,1904-04-08,Europe,United Kingdom,1989-05-20,Individual
+1946,Peace,1/2,121524,2503929,1946-11-14,507,John R. Mott,male,1865-05-25,North America,USA,1955-01-31,Individual
+1982,Physiology or Medicine,1/3,1150000,3102518,1982-10-11,427,John R. Vane,male,1927-03-29,Europe,United Kingdom,2004-11-19,Individual
+1962,Literature,1,257220,2836985,not specified,634,John Steinbeck,male,1902-02-27,North America,USA,1968-12-20,Individual
+1904,Literature,1/2,140859,7767960,not specified,574,José Echegaray,male,1832-04-19,Europe,Spain,1916-09-04,Individual
+1996,Peace,1/2,7400000,9490424,1996-10-11,563,José Ramos-Horta,male,1949-12-26,Oceania,East Timor,not dead or organization,Individual
+1998,Literature,1,7600000,9713701,not specified,675,José Saramago,male,1922-11-16,Europe,Portugal,2010-06-18,Individual
+1987,Literature,1,2175000,4274764,not specified,664,Joseph Brodsky,male,1940-05-24,Europe,USSR,1996-01-28,Individual
+1990,Physiology or Medicine,1/2,4000000,6329114,not specified,442,Joseph E. Murray,male,1919-04-01,North America,USA,2012-11-26,Individual
+2001,Economic Sciences,1/3,10000000,12295082,2001-10-10,746,Joseph E. Stiglitz,male,1943-02-09,North America,USA,not dead or organization,Individual
+1944,Physiology or Medicine,1/2,121841,2510460,not specified,337,Joseph Erlanger,male,1874-01-05,North America,USA,1965-12-05,Individual
+1993,Physics,1/2,6700000,9044276,1993-10-13,144,Joseph H. Taylor Jr.,male,1941-03-29,North America,USA,not dead or organization,Individual
+1985,Physiology or Medicine,1/2,1800000,3843964,not specified,433,Joseph L. Goldstein,male,1940-04-18,North America,USA,not dead or organization,Individual
+1995,Peace,1/2,7200000,9278351,1995-10-13,560,Joseph Rotblat,male,1908-11-04,Europe,Russian Empire,2005-08-31,Individual
+1958,Physiology or Medicine,1/2,214559,2646698,not specified,366,Joshua Lederberg,male,1925-05-23,North America,USA,2008-02-02,Individual
+2016,Peace,1,8000000,8301051,2016-10-07,934,Juan Manuel Santos,male,1951-08-10,South America,Colombia,not dead or organization,Individual
+1956,Literature,1,200123,2699501,not specified,627,Juan Ramón Jiménez,male,1881-12-24,Europe,Spain,1958-05-29,Individual
+2011,Physiology or Medicine,1/4,10000000,10545557,not specified,862,Jules A. Hoffmann,male,1941-08-02,Europe,Luxembourg,not dead or organization,Individual
+1919,Physiology or Medicine,1,133127,2377268,not specified,309,Jules Bordet,male,1870-06-13,Europe,Belgium,1961-04-06,Individual
+1965,Physics,1/3,282000,2782895,not specified,85,Julian Schwinger,male,1918-02-12,North America,USA,1994-07-16,Individual
+1970,Physiology or Medicine,1/3,400000,3177966,1970-10-15,396,Julius Axelrod,male,1912-05-30,North America,USA,2004-12-29,Individual
+1927,Physiology or Medicine,1,126501,3593778,not specified,317,Julius Wagner-Jauregg,male,1857-03-07,Europe,Austria,1940-09-27,Individual
+1987,Physics,1/2,2175000,4274764,1987-10-14,131,K. Alex Müller,male,1927-04-20,Europe,Switzerland,not dead or organization,Individual
+1981,Physics,1/2,1000000,2929688,1981-10-19,120,Kai M. Siegbahn,male,1918-04-20,Europe,Sweden,2007-07-20,Individual
+2014,Peace,1/2,8000000,8379888,2014-10-10,913,Kailash Satyarthi,male,1954-01-11,Asia,India,not dead or organization,Individual
+1917,Literature,1/2,133823,3920596,1917-11-08,586,Karl Gjellerup,male,1857-06-02,Europe,Denmark,1919-10-11,Individual
+1930,Physiology or Medicine,1,172947,5066807,not specified,321,Karl Landsteiner,male,1868-06-14,Europe,Austrian Empire,1943-06-26,Individual
+1973,Physiology or Medicine,1/3,510000,3331882,not specified,400,Karl von Frisch,male,1886-11-20,Europe,Austria,1982-06-12,Individual
+1963,Chemistry,1/2,265000,2839286,not specified,228,Karl Ziegler,male,1898-11-26,Europe,Germany,1973-08-12,Individual
+1993,Chemistry,1/2,6700000,9044276,1993-10-13,278,Kary B. Mullis,male,1944-12-28,North America,USA,2019-08-07,Individual
+2017,Literature,1,9000000,9176183,2017-10-05,947,Kazuo Ishiguro,male,1954-11-08,Asia,Japan,not dead or organization,Individual
+1967,Physiology or Medicine,1/3,320000,2843602,not specified,386,Keffer Hartline,male,1903-12-22,North America,USA,1983-03-17,Individual
+1981,Chemistry,1/2,1000000,2929688,1981-10-19,257,Kenichi Fukui,male,1918-10-04,Asia,Japan,1998-01-09,Individual
+1982,Physics,1,1150000,3102518,1982-10-18,121,Kenneth G. Wilson,male,1936-06-08,North America,USA,2013-06-15,Individual
+1972,Economic Sciences,1/2,480000,3345725,1972-10-25,682,Kenneth J. Arrow,male,1921-08-23,North America,USA,2017-02-21,Individual
+1994,Literature,1,7000000,9249471,not specified,671,Kenzaburo Oe,male,1935-01-31,Asia,Japan,not dead or organization,Individual
+2000,Peace,1,9000000,11333109,2000-10-13,725,Kim Dae-jung,male,1925-12-03,Asia,Korea,2009-08-18,Individual
+2017,Physics,1/4,9000000,9176183,2017-10-03,943,Kip S. Thorne,male,1940-06-01,North America,USA,not dead or organization,Individual
+1908,Peace,1/2,139800,7084459,1908-12-10,473,Klas Pontus Arnoldson,male,1844-10-27,Europe,Sweden,1916-02-20,Individual
+1985,Physics,1,1800000,3843964,1985-10-16,126,Klaus von Klitzing,male,1943-06-28,Europe,German-occupied Poland,not dead or organization,Individual
+1920,Literature,1,134100,2394643,not specified,589,Knut Hamsun,male,1859-08-04,Europe,Norway,1952-02-19,Individual
+2001,Peace,1/2,10000000,12295082,2001-10-12,749,Kofi Annan,male,1938-04-08,Africa,Gold Coast,2018-08-18,Individual
+2002,Chemistry,1/4,10000000,12034660,2002-10-09,757,Koichi Tanaka,male,1959-08-03,Asia,Japan,not dead or organization,Individual
+1964,Physiology or Medicine,1/2,273000,2828039,not specified,378,Konrad Bloch,male,1912-01-21,Europe,Germany,2000-10-15,Individual
+1973,Physiology or Medicine,1/3,510000,3331882,not specified,401,Konrad Lorenz,male,1903-11-07,Europe,Austria,1989-02-27,Individual
+2010,Physics,1/2,10000000,10819388,2010-10-05,850,Konstantin Novoselov,male,1974-08-23,Europe,Russia,not dead or organization,Individual
+1950,Chemistry,1/2,164304,3050198,not specified,211,Kurt Alder,male,1902-07-10,Europe,Prussia,1958-06-20,Individual
+2002,Chemistry,1/2,10000000,12034660,2002-10-09,758,Kurt Wüthrich,male,1938-10-04,Europe,Switzerland,not dead or organization,Individual
+1968,Chemistry,1,350000,3052326,not specified,236,Lars Onsager,male,1903-11-27,Europe,Norway,1976-10-05,Individual
+2013,Economic Sciences,1/3,8000000,8365867,2013-10-14,895,Lars Peter Hansen,male,1952-10-26,North America,USA,not dead or organization,Individual
+1915,Physics,1/2,149223,6217625,1915-11-12,21,Lawrence Bragg,male,1890-03-31,Oceania,Australia,1971-07-01,Individual
+1980,Economic Sciences,1,880000,2889667,1980-10-15,694,Lawrence R. Klein,male,1920-09-14,North America,USA,2013-10-20,Individual
+1973,Peace,1/2,510000,3331882,1973-10-17,531,Le Duc Tho ,male,1911-10-14,Asia,Vietnam,1990-10-13,Individual
+1963,Peace,1/2,265000,2839286,1963-10-10,523,League of Red Cross Societies,organization,1919-00-00,Europe,France,not dead or organization,Organization
+1983,Peace,1,1500000,3715324,1983-10-05,545,Lech Walesa,male,1943-09-29,Europe,Poland,not dead or organization,Individual
+2001,Physiology or Medicine,1/3,10000000,12295082,2001-10-08,735,Leland Hartwell,male,1939-10-30,North America,USA,not dead or organization,Individual
+1973,Physics,1/4,510000,3331882,1973-10-23,97,Leo Esaki,male,1925-03-12,Asia,Japan,not dead or organization,Individual
+1920,Peace,1,134100,2394643,1920-12-10,484,Léon Bourgeois,male,1851-05-21,Europe,France,1925-09-29,Individual
+1951,Peace,1,167612,2686090,not specified,512,Léon Jouhaux,male,1879-07-01,Europe,France,1954-04-28,Individual
+1988,Physics,1/3,2500000,4645689,1988-10-19,132,Leon M. Lederman,male,1922-07-15,North America,USA,2018-10-03,Individual
+1972,Physics,1/3,480000,3345725,not specified,95,Leon N. Cooper,male,1930-02-28,North America,USA,not dead or organization,Individual
+2007,Economic Sciences,1/3,10000000,11301989,2007-10-15,820,Leonid Hurwicz,male,1917-08-21,Europe,Russia,2008-06-24,Individual
+1975,Economic Sciences,1/2,630000,3404179,1975-10-14,686,Leonid Vitaliyevich Kantorovich,male,1912-01-19,Europe,Russian Empire,1986-04-07,Individual
+1939,Chemistry,1/2,148822,4227898,not specified,200,Leopold Ruzicka,male,1887-09-13,Europe,Austria-Hungary,1976-09-26,Individual
+1957,Peace,1,208629,2697789,1957-10-03,516,Lester Bowles Pearson,male,1897-04-23,North America,Canada,1972-12-27,Individual
+1962,Physics,1,257220,2836985,not specified,77,Lev Landau,male,1908-01-22,Asia,Russian Empire,1968-04-01,Individual
+2011,Peace,1/3,10000000,10545557,2011-10-07,870,Leymah Gbowee,female,1972-02-01,Africa,Liberia,not dead or organization,Individual
+2004,Physiology or Medicine,1/2,10000000,11762861,2004-10-04,775,Linda B. Buck,female,1947-01-29,North America,USA,not dead or organization,Individual
+1962,Peace,1,257220,2836985,1963-10-10,217,Linus Pauling,male,1901-02-28,North America,USA,1994-08-19,Individual
+2010,Peace,1,10000000,10819388,2010-10-08,855,Liu Xiaobo,male,1955-12-28,Asia,China,2017-07-13,Individual
+2012,Economic Sciences,1/2,8000000,8361204,2012-10-15,883,Lloyd S. Shapley,male,1923-06-02,North America,USA,2016-03-12,Individual
+1949,Peace,1,156290,2930438,1949-10-12,510,Lord Boyd Orr,male,1880-09-23,Europe,Scotland,1971-06-25,Individual
+1904,Physics,1,140859,7767960,not specified,8,Lord Rayleigh,male,1842-11-12,Europe,United Kingdom,1919-06-30,Individual
+1957,Chemistry,1,208629,2697789,not specified,221,Lord Todd,male,1907-10-02,Europe,Scotland,1997-01-10,Individual
+1929,Physics,1,172760,4907955,not specified,36,Louis de Broglie,male,1892-08-15,Europe,France,1987-03-19,Individual
+1998,Physiology or Medicine,1/3,7600000,9713701,not specified,459,Louis J. Ignarro,male,1941-05-31,North America,USA,not dead or organization,Individual
+1970,Physics,1/2,400000,3177966,1970-10-27,92,Louis Néel,male,1904-11-22,Europe,France,2000-11-17,Individual
+1907,Peace,1/2,138796,7033581,1907-12-10,472,Louis Renault,male,1843-05-21,Europe,France,1918-02-08,Individual
+2008,Physiology or Medicine,1/4,10000000,10926573,2008-10-06,825,Luc Montagnier,male,1932-08-18,Europe,France,not dead or organization,Individual
+1927,Peace,1/2,126501,3593778,1927-12-10,493,Ludwig Quidde,male,1858-03-23,Europe,Germany,1941-03-04,Individual
+1934,Literature,1,162608,5167627,not specified,607,Luigi Pirandello,male,1867-06-28,Europe,Italy,1936-12-10,Individual
+1968,Physics,1,350000,3052326,not specified,89,Luis Alvarez,male,1911-06-13,North America,USA,1988-09-01,Individual
+1970,Chemistry,1,400000,3177966,1970-10-27,239,Luis Leloir,male,1906-09-06,Europe,France,1987-12-02,Individual
+2019,Chemistry,1/3,9000000,9000000,2019-10-09,977,M. Stanley Whittingham,male,1941-12-22,Europe,United Kingdom,not dead or organization,Individual
+1976,Peace,1/2,681000,3342605,1977-10-10,536,Mairead Corrigan,female,1944-01-27,Europe,Northern Ireland,not dead or organization,Individual
+2008,Physics,1/4,10000000,10926573,2008-10-07,827,Makoto Kobayashi,male,1944-04-07,Asia,Japan,not dead or organization,Individual
+2014,Peace,1/2,8000000,8379888,2014-10-10,914,Malala Yousafzai,female,1997-07-12,Asia,Pakistan,not dead or organization,Individual
+1967,Chemistry,1/2,320000,2843602,not specified,233,Manfred Eigen,male,1927-05-09,Europe,Germany,2019-02-06,Individual
+1924,Physics,1,116719,3218355,not specified,29,Manne Siegbahn,male,1886-12-03,Europe,Sweden,1978-09-26,Individual
+1963,Physics,1/4,265000,2839286,not specified,79,Maria Goeppert Mayer,female,1906-06-28,Europe,Germany,1972-02-20,Individual
+1903,Physics,1/4,141358,7795478,not specified,6,Marie Curie,female,1867-11-07,Europe,Russian Empire,1934-07-04,Individual
+1995,Chemistry,1/3,7200000,9278351,1995-10-11,282,Mario J. Molina,male,1943-03-19,North America,Mexico,not dead or organization,Individual
+2007,Physiology or Medicine,1/3,10000000,11301989,2007-10-08,811,Mario R. Capecchi,male,1937-10-06,Europe,Italy,not dead or organization,Individual
+2010,Literature,1,10000000,10819388,2010-10-07,854,Mario Vargas Llosa,male,1936-03-28,South America,Peru,not dead or organization,Individual
+1968,Physiology or Medicine,1/3,350000,3052326,not specified,390,Marshall W. Nirenberg,male,1927-04-10,North America,USA,2010-01-15,Individual
+2008,Chemistry,1/3,10000000,10926573,2008-10-08,830,Martin Chalfie,male,1947-01-15,North America,USA,not dead or organization,Individual
+2013,Chemistry,1/3,8000000,8365867,2013-10-09,889,Martin Karplus,male,1930-03-15,Europe,Austria,not dead or organization,Individual
+1995,Physics,1/2,7200000,9278351,1995-10-11,147,Martin L. Perl,male,1927-06-24,North America,USA,2014-09-30,Individual
+1964,Peace,1,273000,2828039,1964-10-14,524,Martin Luther King Jr.,male,1929-01-15,North America,USA,1968-04-04,Individual
+1994,Physiology or Medicine,1/2,7000000,9249471,1994-10-10,451,Martin Rodbell,male,1925-12-01,North America,USA,1998-12-07,Individual
+1974,Physics,1/2,550000,3263449,1974-10-15,100,Martin Ryle,male,1918-09-27,Europe,United Kingdom,1984-10-14,Individual
+1999,Physics,1/2,7900000,10049186,1999-10-12,159,Martinus J.G. Veltman,male,1931-06-27,Europe,the Netherlands,not dead or organization,Individual
+2008,Peace,1,10000000,10926573,2008-10-10,833,Martti Ahtisaari,male,1937-06-23,Europe,Finland,not dead or organization,Individual
+2002,Physics,1/4,10000000,12034660,2002-10-08,754,Masatoshi Koshiba,male,1926-09-19,Asia,Japan,not dead or organization,Individual
+1988,Economic Sciences,1,2500000,4645689,1988-10-18,702,Maurice Allais,male,1911-05-31,Europe,France,2010-10-09,Individual
+1911,Literature,1,140695,7327865,not specified,581,Maurice Maeterlinck,male,1862-08-29,Europe,Belgium,1949-05-06,Individual
+1962,Physiology or Medicine,1/3,257220,2836985,not specified,374,Maurice Wilkins,male,1916-12-15,Oceania,New Zealand,2004-10-05,Individual
+1954,Physics,1/2,181647,2640218,not specified,61,Max Born,male,1882-12-11,Europe,Germany,1970-01-05,Individual
+1969,Physiology or Medicine,1/3,375000,3181561,not specified,391,Max Delbrück,male,1906-09-04,Europe,Germany,1981-03-09,Individual
+1962,Chemistry,1/2,257220,2836985,not specified,226,Max F. Perutz,male,1914-05-19,Europe,Austria,2002-02-06,Individual
+1918,Physics,1,138198,2847486,not specified,23,Max Planck,male,1858-04-23,Europe,Schleswig,1947-10-04,Individual
+1951,Physiology or Medicine,1,167612,2686090,not specified,352,Max Theiler,male,1899-01-30,Africa,South Africa,1972-08-11,Individual
+1914,Physics,1,146900,7062500,1915-11-11,19,Max von Laue,male,1879-10-09,Europe,Germany,1960-04-23,Individual
+2014,Physiology or Medicine,1/4,8000000,8379888,not specified,904,May-Britt Moser,female,1963-01-04,Europe,Norway,not dead or organization,Individual
+1999,Peace,1,7900000,10049186,1999-10-15,568,Médecins Sans Frontières,organization,1971-00-00,Europe,France,not dead or organization,Organization
+1961,Chemistry,1,250233,2878447,not specified,225,Melvin Calvin,male,1911-04-08,North America,USA,1997-01-08,Individual
+1988,Physics,1/3,2500000,4645689,1988-10-19,133,Melvin Schwartz,male,1932-11-02,North America,USA,2006-08-28,Individual
+1978,Peace,1/2,725000,2898454,1978-10-27,539,Menachem Begin,male,1913-08-16,Europe,Russian Empire,1992-03-09,Individual
+1990,Economic Sciences,1/3,4000000,6329114,1990-10-16,705,Merton H. Miller,male,1923-05-16,North America,USA,2000-06-03,Individual
+2019,Economic Sciences,1/3,9000000,9000000,2019-10-14,984,Michael Kremer,male,1964-11-12,North America,USA,not dead or organization,Individual
+2013,Chemistry,1/3,8000000,8365867,2013-10-09,890,Michael Levitt,male,1947-05-09,Africa,South Africa,not dead or organization,Individual
+2017,Physiology or Medicine,1/3,9000000,9176183,not specified,939,Michael Rosbash,male,1944-03-07,North America,USA,not dead or organization,Individual
+1985,Physiology or Medicine,1/2,1800000,3843964,not specified,432,Michael S. Brown,male,1941-04-13,North America,USA,not dead or organization,Individual
+1993,Chemistry,1/2,6700000,9044276,1993-10-13,279,Michael Smith,male,1932-04-26,Europe,United Kingdom,2000-10-04,Individual
+2017,Physiology or Medicine,1/3,9000000,9176183,not specified,940,Michael W. Young,male,1949-03-28,North America,USA,not dead or organization,Individual
+2019,Physics,1/4,9000000,9000000,2019-10-08,974,Michel Mayor,male,1942-01-12,Europe,Switzerland,not dead or organization,Individual
+1967,Literature,1,320000,2843602,not specified,641,Miguel Angel Asturias,male,1899-10-19,North America,Guatemala,1974-06-09,Individual
+1990,Peace,1,4000000,6329114,1990-10-15,552,Mikhail Gorbachev,male,1931-03-02,Europe,USSR,not dead or organization,Individual
+1965,Literature,1,282000,2782895,not specified,638,Mikhail Sholokhov,male,1905-05-24,Europe,Russia,1984-02-21,Individual
+1976,Economic Sciences,1,681000,3342605,1976-10-14,688,Milton Friedman,male,1912-07-31,North America,USA,2006-11-16,Individual
+2012,Literature,1,8000000,8361204,2012-10-11,880,Mo Yan,male,1955-02-02,Asia,China,not dead or organization,Individual
+2005,Peace,1/2,10000000,11711430,2005-10-07,798,Mohamed ElBaradei,male,1942-06-17,Africa,Egypt,not dead or organization,Individual
+1979,Peace,1,800000,2988048,1979-10-27,540,Mother Teresa ,female,1910-08-26,Europe,Ottoman Empire,1997-09-05,Individual
+2006,Peace,1/2,10000000,11552680,2006-10-13,809,Muhammad Yunus,male,1940-06-28,Asia,British India,not dead or organization,Individual
+1969,Physics,1,375000,3181561,not specified,90,Murray Gell-Mann,male,1929-09-15,North America,USA,2019-05-24,Individual
+1997,Economic Sciences,1/2,7500000,9572839,1997-10-14,718,Myron Scholes,male,1941-07-01,North America,Canada,not dead or organization,Individual
+2018,Peace,1/2,9000000,9000000,2018-10-05,967,Nadia Murad,female,1993-00-00,Asia,Iraq,not dead or organization,Individual
+1991,Literature,1,6000000,8673863,not specified,668,Nadine Gordimer,female,1923-11-20,Africa,South Africa,2014-07-13,Individual
+1988,Literature,1,2500000,4645689,not specified,665,Naguib Mahfouz,male,1911-12-11,Africa,Egypt,2006-08-30,Individual
+1938,Peace,1,155077,4543271,1938-11-17,503,Nansen International Office for Refugees,organization,1921-00-00,Europe,Switzerland,not dead or organization,Organization
+1930,Peace,1,172947,5066807,1930-12-10,495,Nathan Söderblom,male,1866-01-15,Europe,Sweden,1931-07-12,Individual
+2015,Peace,1,8000000,8384572,2015-10-09,925,National Dialogue Quartet ,organization,not specified,not specified,not specified,not dead or organization,Organization
+1966,Literature,1/2,300000,2784653,not specified,640,Nelly Sachs,female,1891-12-10,Europe,Germany,1970-05-12,Individual
+1993,Peace,1/2,6700000,9044276,1993-10-15,555,Nelson Mandela,male,1918-07-18,Africa,South Africa,2013-12-05,Individual
+1931,Peace,1/2,173206,5238085,1931-12-10,497,Nicholas Murray Butler,male,1862-04-02,North America,USA,1947-12-07,Individual
+1981,Physics,1/4,1000000,2929688,1981-10-19,118,Nicolaas Bloembergen,male,1920-03-11,Europe,the Netherlands,2017-09-05,Individual
+1964,Physics,1/4,273000,2828039,not specified,82,Nicolay G. Basov,male,1922-12-14,Europe,USSR,2001-07-01,Individual
+1922,Physics,1,122483,3145967,not specified,27,Niels Bohr,male,1885-10-07,Europe,Denmark,1962-11-18,Individual
+1984,Physiology or Medicine,1/3,1650000,3782090,not specified,429,Niels K. Jerne,male,1911-12-23,Europe,United Kingdom,1994-10-07,Individual
+1903,Physiology or Medicine,1,141358,7795478,not specified,295,Niels Ryberg Finsen,male,1860-12-15,Europe,Faroe Islands (Denmark),1904-09-24,Individual
+1973,Physiology or Medicine,1/3,510000,3331882,not specified,402,Nikolaas Tinbergen,male,1907-04-15,Europe,the Netherlands,1988-12-21,Individual
+1956,Chemistry,1/2,200123,2699501,not specified,220,Nikolay Semenov,male,1896-04-03,Europe,Russia,1986-09-25,Individual
+1970,Peace,1,400000,3177966,1970-10-21,528,Norman Borlaug,male,1914-03-25,North America,USA,2009-09-12,Individual
+1989,Physics,1/2,3000000,5242311,1989-10-12,135,Norman F. Ramsey,male,1915-08-27,North America,USA,2011-11-04,Individual
+1937,Chemistry,1/2,158463,4716161,not specified,196,Norman Haworth,male,1883-03-19,Europe,United Kingdom,1950-03-19,Individual
+1990,Literature,1,4000000,6329114,not specified,667,Octavio Paz,male,1914-03-31,North America,Mexico,1998-04-19,Individual
+1969,Chemistry,1/2,375000,3181561,not specified,238,Odd Hassel,male,1897-05-17,Europe,Norway,1981-05-11,Individual
+1979,Literature,1,800000,2988048,not specified,655,Odysseus Elytis,male,1911-11-02,Europe,Crete,1996-03-18,Individual
+1954,Peace,1,181647,2640218,1955-11-05,515,Office of the United Nations High Commissioner for Refugees,organization,1951-00-00,Europe,Switzerland,not dead or organization,Organization
+2018,Literature,1,9000000,9000000,2019-10-10,979,Olga Tokarczuk,female,1962-01-29,Europe,Poland,not dead or organization,Individual
+2009,Economic Sciences,1/2,10000000,10958504,2009-10-12,847,Oliver E. Williamson,male,1932-09-27,North America,USA,not dead or organization,Individual
+2016,Economic Sciences,1/2,8000000,8301051,2016-10-10,935,Oliver Hart,male,1948-10-09,Europe,United Kingdom,not dead or organization,Individual
+2007,Physiology or Medicine,1/3,10000000,11301989,2007-10-08,813,Oliver Smithies,male,1925-06-23,Europe,United Kingdom,2017-01-10,Individual
+2013,Peace,1,8000000,8365867,2013-10-11,893,Organisation for the Prohibition of Chemical Weapons,organization,1997-00-00,not specified,not specified,not dead or organization,Organization
+2006,Literature,1,10000000,11552680,2006-10-12,808,Orhan Pamuk,male,1952-06-07,Asia,Turkey,not dead or organization,Individual
+2008,Chemistry,1/3,10000000,10926573,2008-10-08,829,Osamu Shimomura,male,1928-08-27,Asia,Japan,2018-10-19,Individual
+1987,Peace,1,2175000,4274764,1987-10-13,549,Oscar Arias Sánchez,male,1940-09-13,North America,Costa Rica,not dead or organization,Individual
+1950,Chemistry,1/2,164304,3050198,not specified,210,Otto Diels,male,1876-01-23,Europe,Germany,1954-03-07,Individual
+1944,Chemistry,1,121841,2510460,not specified,202,Otto Hahn,male,1879-03-08,Europe,Germany,1968-07-28,Individual
+1936,Physiology or Medicine,1/2,159850,4913422,not specified,331,Otto Loewi,male,1873-06-03,Europe,Germany,1961-12-25,Individual
+1922,Physiology or Medicine,1/2,122483,3145967,not specified,312,Otto Meyerhof,male,1884-04-12,Europe,Germany,1951-10-06,Individual
+1943,Physics,1,123691,2520876,not specified,48,Otto Stern,male,1888-02-17,Europe,Germany,1969-08-17,Individual
+1910,Chemistry,1,140703,7130220,not specified,169,Otto Wallach,male,1847-03-27,Europe,Germany,1931-02-26,Individual
+1931,Physiology or Medicine,1,173206,5238085,not specified,322,Otto Warburg,male,1883-10-08,Europe,Germany,1970-08-01,Individual
+1959,Physics,1/2,220678,2704387,not specified,73,Owen Chamberlain,male,1920-07-10,North America,USA,2006-02-28,Individual
+1928,Physics,1,156939,4458494,not specified,35,Owen Willans Richardson,male,1879-04-26,Europe,United Kingdom,1959-02-15,Individual
+1971,Literature,1,450000,3321850,not specified,645,Pablo Neruda,male,1904-07-12,South America,Chile,1973-09-23,Individual
+1951,Literature,1,167612,2686090,not specified,622,Pär Lagerkvist,male,1891-05-23,Europe,Sweden,1974-07-11,Individual
+1948,Physics,1,159773,3056881,not specified,53,Patrick M.S. Blackett,male,1897-11-18,Europe,United Kingdom,1974-07-13,Individual
+2014,Literature,1,8000000,8379888,2014-10-09,912,Patrick Modiano,male,1945-07-30,Europe,France,not dead or organization,Individual
+1973,Literature,1,510000,3331882,not specified,648,Patrick White,male,1912-05-28,Europe,United Kingdom,1990-09-30,Individual
+1970,Economic Sciences,1,400000,3177966,1970-10-26,679,Paul A. Samuelson,male,1915-05-15,North America,USA,2009-12-13,Individual
+1933,Physics,1/2,170332,5413093,not specified,40,Paul A.M. Dirac,male,1902-08-08,Europe,United Kingdom,1984-10-20,Individual
+1980,Chemistry,1/2,880000,2889667,1980-10-14,254,Paul Berg,male,1926-06-30,North America,USA,not dead or organization,Individual
+2003,Physiology or Medicine,1/2,10000000,11807305,2003-10-06,764,Paul C. Lauterbur,male,1929-05-06,North America,USA,2007-03-27,Individual
+1997,Chemistry,1/4,7500000,9572839,1997-10-15,287,Paul D. Boyer,male,1918-07-31,North America,USA,2018-06-02,Individual
+1908,Physiology or Medicine,1/2,139800,7084459,not specified,302,Paul Ehrlich,male,1854-03-14,Europe,Prussia,1915-08-20,Individual
+2000,Physiology or Medicine,1/3,9000000,11333109,2000-10-09,723,Paul Greengard,male,1925-12-11,North America,USA,2019-04-13,Individual
+1909,Peace,1/2,139800,7084459,1909-12-10,476,Paul Henri d'Estournelles de Constant,male,1852-11-22,Europe,France,1924-05-15,Individual
+1910,Literature,1,140703,7130220,not specified,580,Paul Heyse,male,1830-03-15,Europe,Prussia,1914-04-02,Individual
+1995,Chemistry,1/3,7200000,9278351,1995-10-11,281,Paul J. Crutzen,male,1933-12-03,Europe,the Netherlands,not dead or organization,Individual
+1974,Chemistry,1,550000,3263449,1974-10-15,246,Paul J. Flory,male,1910-06-19,North America,USA,1985-09-08,Individual
+1937,Chemistry,1/2,158463,4716161,not specified,197,Paul Karrer,male,1889-04-21,Europe,Russia,1971-06-18,Individual
+2008,Economic Sciences,1,10000000,10926573,2008-10-13,834,Paul Krugman,male,1953-02-28,North America,USA,not dead or organization,Individual
+2018,Economic Sciences,1/2,9000000,9000000,not specified,969,Paul M. Romer,male,1955-00-00,North America,USA,not dead or organization,Individual
+2015,Chemistry,1/3,8000000,8384572,2015-10-07,922,Paul Modrich,male,1946-06-13,North America,USA,not dead or organization,Individual
+1948,Physiology or Medicine,1,159773,3056881,not specified,346,Paul Müller,male,1899-01-12,Europe,Switzerland,1965-10-12,Individual
+1912,Chemistry,1/2,140476,6753654,not specified,173,Paul Sabatier,male,1854-11-05,Europe,France,1941-08-14,Individual
+1958,Physics,1/3,214559,2646698,not specified,70,Pavel A. Cherenkov,male,1904-07-28,Europe,Russia,1990-01-06,Individual
+1938,Literature,1,155077,4543271,not specified,610,Pearl Buck,female,1892-06-26,North America,USA,1973-03-06,Individual
+1946,Physics,1,121524,2503929,not specified,51,Percy W. Bridgman,male,1882-04-21,North America,USA,1961-08-20,Individual
+1910,Peace,1,140703,7130220,1910-12-10,477,Permanent International Peace Bureau,organization,1891-00-00,Europe,Switzerland,not dead or organization,Organization
+2010,Economic Sciences,1/3,10000000,10819388,2010-10-11,856,Peter A. Diamond,male,1940-04-29,North America,USA,not dead or organization,Individual
+2003,Chemistry,1/2,10000000,11807305,2003-10-08,769,Peter Agre,male,1949-01-30,North America,USA,not dead or organization,Individual
+1996,Physiology or Medicine,1/2,7400000,9490424,1996-10-07,455,Peter C. Doherty,male,1940-10-15,Oceania,Australia,not dead or organization,Individual
+1936,Chemistry,1,159850,4913422,not specified,195,Peter Debye,male,1884-03-24,Europe,the Netherlands,1966-11-02,Individual
+2007,Physics,1/2,10000000,11301989,2007-10-09,815,Peter Grünberg,male,1939-05-18,Europe,Czechoslovakia,2018-04-09,Individual
+2019,Literature,1,9000000,9000000,2019-10-10,980,Peter Handke,male,1942-12-06,Europe,Austria,not dead or organization,Individual
+2013,Physics,1/2,8000000,8365867,2013-10-08,888,Peter Higgs,male,1929-05-29,Europe,United Kingdom,not dead or organization,Individual
+1960,Physiology or Medicine,1/2,225987,2664941,1960-10-20,370,Peter Medawar,male,1915-02-28,South America,Brazil,1987-10-02,Individual
+1978,Chemistry,1,725000,2898454,1978-10-17,251,Peter Mitchell,male,1920-09-29,Europe,United Kingdom,1992-04-10,Individual
+1966,Physiology or Medicine,1/2,300000,2784653,not specified,383,Peyton Rous,male,1879-10-05,North America,USA,1970-02-16,Individual
+1959,Peace,1,220678,2704387,1959-11-05,518,Philip Noel-Baker,male,1889-11-01,Europe,United Kingdom,1982-10-08,Individual
+1950,Physiology or Medicine,1/3,164304,3050198,not specified,351,Philip S. Hench,male,1896-02-28,North America,USA,1965-03-30,Individual
+1977,Physics,1/3,700000,3080986,1977-10-11,107,Philip W. Anderson,male,1923-12-13,North America,USA,2020-03-29,Individual
+1905,Physics,1,138089,7615202,not specified,9,Philipp Lenard,male,1862-06-07,Europe,Hungary,1947-05-20,Individual
+1993,Physiology or Medicine,1/2,6700000,9044276,1993-10-11,449,Phillip A. Sharp,male,1944-06-06,North America,USA,not dead or organization,Individual
+1903,Physics,1/4,141358,7795478,not specified,5,Pierre Curie,male,1859-05-15,Europe,France,1906-04-19,Individual
+1991,Physics,1,6000000,8673863,1991-10-16,141,Pierre-Gilles de Gennes,male,1932-10-24,Europe,France,2007-05-18,Individual
+1902,Physics,1/2,141847,8059489,not specified,3,Pieter Zeeman,male,1865-05-25,Europe,the Netherlands,1943-10-09,Individual
+1955,Physics,1/2,190214,2681588,1955-11-02,64,Polykarp Kusch,male,1911-01-26,Europe,Germany,1993-03-20,Individual
+1995,Peace,1/2,7200000,9278351,1995-10-13,561,Pugwash Conferences on Science and World Affairs,organization,1957-00-00,North America,Canada,not dead or organization,Organization
+1978,Physics,1/2,725000,2898454,1978-10-17,110,Pyotr Kapitsa,male,1894-07-09,Europe,Russian Empire,1984-04-08,Individual
+1913,Literature,1,143010,6875481,not specified,583,Rabindranath Tagore,male,1861-05-07,Asia,India,1941-08-07,Individual
+1969,Economic Sciences,1/2,375000,3181561,not specified,677,Ragnar Frisch,male,1895-03-03,Europe,Norway,1973-01-31,Individual
+1967,Physiology or Medicine,1/3,320000,2843602,not specified,385,Ragnar Granit,male,1900-10-30,Europe,Russian Empire,1991-03-12,Individual
+2017,Physics,1/2,9000000,9176183,2017-10-03,941,Rainer Weiss,male,1932-09-29,Europe,Germany,not dead or organization,Individual
+1950,Peace,1,164304,3050198,1950-09-22,511,Ralph Bunche,male,1904-08-07,North America,USA,1971-12-09,Individual
+2011,Physiology or Medicine,1/2,10000000,10545557,not specified,863,Ralph M. Steinman,male,1943-01-14,North America,Canada,2011-09-30,Individual
+1903,Peace,1,141358,7795478,1903-12-10,466,Randal Cremer,male,1828-03-18,Europe,United Kingdom,1908-07-22,Individual
+2013,Physiology or Medicine,1/3,8000000,8365867,not specified,885,Randy W. Schekman,male,1948-12-30,North America,USA,not dead or organization,Individual
+2002,Physics,1/4,10000000,12034660,2002-10-08,753,Raymond Davis Jr.,male,1914-10-14,North America,USA,2006-05-31,Individual
+1994,Economic Sciences,1/3,7000000,9249471,1994-10-11,713,Reinhard Selten,male,1930-10-05,Europe,Germany,2016-08-23,Individual
+1975,Physiology or Medicine,1/3,630000,3404179,1975-10-16,407,Renato Dulbecco,male,1914-02-22,Europe,Italy,2012-02-19,Individual
+1968,Peace,1,350000,3052326,1968-10-09,526,René Cassin,male,1887-10-05,Europe,France,1976-02-20,Individual
+2002,Physics,1/2,10000000,12034660,2002-10-08,755,Riccardo Giacconi,male,1931-10-06,Europe,Italy,2018-12-16,Individual
+2004,Physiology or Medicine,1/2,10000000,11762861,2004-10-04,774,Richard Axel,male,1946-07-02,North America,USA,not dead or organization,Individual
+1996,Chemistry,1/3,7400000,9490424,1996-10-09,286,Richard E. Smalley,male,1943-06-06,North America,USA,2005-10-28,Individual
+1990,Physics,1/3,4000000,6329114,1990-10-17,140,Richard E. Taylor,male,1929-11-02,North America,Canada,2018-02-22,Individual
+2010,Chemistry,1/3,10000000,10819388,2010-10-06,851,Richard F. Heck,male,1931-08-15,North America,USA,2015-10-09,Individual
+2017,Economic Sciences,1,9000000,9176183,2017-10-09,949,Richard H. Thaler,male,1945-09-12,North America,USA,not dead or organization,Individual
+2017,Chemistry,1/3,9000000,9176183,2017-10-04,946,Richard Henderson,male,1945-07-19,Europe,Scotland,not dead or organization,Individual
+1993,Physiology or Medicine,1/2,6700000,9044276,1993-10-11,448,Richard J. Roberts,male,1943-09-06,Europe,United Kingdom,not dead or organization,Individual
+1938,Chemistry,1,155077,4543271,not specified,198,Richard Kuhn,male,1900-12-03,Europe,Austria-Hungary,1967-07-31,Individual
+1952,Chemistry,1/2,171135,2546652,not specified,215,Richard L.M. Synge,male,1914-10-28,Europe,United Kingdom,1994-08-18,Individual
+1965,Physics,1/3,282000,2782895,not specified,86,Richard P. Feynman,male,1918-05-11,North America,USA,1988-02-15,Individual
+1991,Chemistry,1,6000000,8673863,not specified,276,Richard R. Ernst,male,1933-08-14,Europe,Switzerland,not dead or organization,Individual
+2005,Chemistry,1/3,10000000,11711430,2005-10-05,796,Richard R. Schrock,male,1945-01-04,North America,USA,not dead or organization,Individual
+1984,Economic Sciences,1,1650000,3782090,1984-10-18,698,Richard Stone,male,1913-08-30,Europe,United Kingdom,1991-12-06,Individual
+1915,Chemistry,1,149223,6217625,1915-11-11,176,Richard Willstätter,male,1872-08-13,Europe,Germany,1942-08-03,Individual
+1925,Chemistry,1,118165,3211005,not specified,182,Richard Zsigmondy,male,1865-04-01,Europe,Austrian Empire,1929-09-24,Individual
+1992,Peace,1,6500000,9184250,1992-10-16,554,Rigoberta Menchú Tum,female,1959-01-09,North America,Guatemala,not dead or organization,Individual
+1986,Physiology or Medicine,1/2,2000000,4098361,not specified,435,Rita Levi-Montalcini,female,1909-04-22,Europe,Italy,2012-12-30,Individual
+1981,Chemistry,1/2,1000000,2929688,1981-10-19,258,Roald Hoffmann,male,1937-07-18,Europe,Poland,not dead or organization,Individual
+1923,Physics,1,114935,3169164,not specified,28,Robert A. Millikan,male,1868-03-22,North America,USA,1953-12-19,Individual
+1998,Physics,1/3,7600000,9713701,1998-10-13,155,Robert B. Laughlin,male,1950-11-01,North America,USA,not dead or organization,Individual
+1965,Chemistry,1,282000,2782895,not specified,231,Robert B. Woodward,male,1917-04-10,North America,USA,1979-07-08,Individual
+1914,Physiology or Medicine,1,146900,7062500,1915-10-29,308,Robert Bárány,male,1876-04-22,Europe,Austria,1936-04-08,Individual
+1997,Economic Sciences,1/2,7500000,9572839,1997-10-14,717,Robert C. Merton,male,1944-07-31,North America,USA,not dead or organization,Individual
+1996,Physics,1/3,7400000,9490424,1996-10-09,151,Robert C. Richardson,male,1937-06-26,North America,USA,2013-02-19,Individual
+1937,Peace,1,158463,4716161,1937-11-18,502,"Robert Cecil, Viscount Cecil of Chelwood",male,1864-09-14,Europe,United Kingdom,1958-11-24,Individual
+1995,Economic Sciences,1,7200000,9278351,1995-10-10,714,Robert E. Lucas Jr.,male,1937-09-15,North America,USA,not dead or organization,Individual
+1996,Chemistry,1/3,7400000,9490424,1996-10-09,284,Robert F. Curl Jr.,male,1933-08-23,North America,USA,not dead or organization,Individual
+2003,Economic Sciences,1/2,10000000,11807305,2003-10-08,771,Robert F. Engle III,male,1942-11-10,North America,USA,not dead or organization,Individual
+1998,Physiology or Medicine,1/3,7600000,9713701,not specified,458,Robert F. Furchgott,male,1916-06-04,North America,USA,2009-05-19,Individual
+2010,Physiology or Medicine,1,10000000,10819388,not specified,848,Robert G. Edwards,male,1925-09-27,Europe,United Kingdom,2013-04-10,Individual
+2005,Chemistry,1/3,10000000,11711430,2005-10-05,795,Robert H. Grubbs,male,1942-02-27,North America,USA,not dead or organization,Individual
+1961,Physics,1/2,250233,2878447,not specified,75,Robert Hofstadter,male,1915-02-05,North America,USA,1990-11-17,Individual
+1988,Chemistry,1/3,2500000,4645689,1988-10-19,271,Robert Huber,male,1937-02-20,Europe,Germany,not dead or organization,Individual
+2005,Economic Sciences,1/2,10000000,11711430,2005-10-10,799,Robert J. Aumann,male,1930-06-08,Europe,Germany,not dead or organization,Individual
+2012,Chemistry,1/2,8000000,8361204,2012-10-10,878,Robert J. Lefkowitz,male,1943-04-15,North America,USA,not dead or organization,Individual
+2013,Economic Sciences,1/3,8000000,8365867,2013-10-14,896,Robert J. Shiller,male,1946-03-29,North America,USA,not dead or organization,Individual
+1905,Physiology or Medicine,1,138089,7615202,not specified,297,Robert Koch,male,1843-12-11,Europe,Germany,1910-05-27,Individual
+1987,Economic Sciences,1,2175000,4274764,1987-10-21,701,Robert M. Solow,male,1924-08-23,North America,USA,not dead or organization,Individual
+1999,Economic Sciences,1,7900000,10049186,1999-10-13,720,Robert Mundell,male,1932-10-24,North America,Canada,not dead or organization,Individual
+1966,Chemistry,1,300000,2784653,not specified,232,Robert S. Mulliken,male,1896-06-07,North America,USA,1986-10-31,Individual
+1972,Physics,1/3,480000,3345725,not specified,96,Robert Schrieffer,male,1931-05-31,North America,USA,2019-07-27,Individual
+1993,Economic Sciences,1/2,6700000,9044276,1993-10-12,709,Robert W. Fogel,male,1927-07-01,North America,USA,2013-06-11,Individual
+1968,Physiology or Medicine,1/3,350000,3052326,not specified,388,Robert W. Holley,male,1922-01-28,North America,USA,1993-02-11,Individual
+1978,Physics,1/4,725000,2898454,1978-10-17,112,Robert Woodrow Wilson,male,1936-01-10,North America,USA,not dead or organization,Individual
+2003,Chemistry,1/2,10000000,11807305,2003-10-08,770,Roderick MacKinnon,male,1956-02-19,North America,USA,not dead or organization,Individual
+1972,Physiology or Medicine,1/2,480000,3345725,not specified,399,Rodney R. Porter,male,1917-10-08,Europe,United Kingdom,1985-09-06,Individual
+2007,Economic Sciences,1/3,10000000,11301989,2007-10-15,822,Roger B. Myerson,male,1951-03-29,North America,USA,not dead or organization,Individual
+2006,Chemistry,1,10000000,11552680,2006-10-04,806,Roger D. Kornberg,male,1947-04-24,North America,USA,not dead or organization,Individual
+1977,Physiology or Medicine,1/4,700000,3080986,not specified,411,Roger Guillemin,male,1924-01-11,Europe,France,not dead or organization,Individual
+1937,Literature,1,158463,4716161,not specified,609,Roger Martin du Gard,male,1881-03-23,Europe,France,1958-08-22,Individual
+1981,Physiology or Medicine,1/2,1000000,2929688,1981-10-09,422,Roger W. Sperry,male,1913-08-20,North America,USA,1994-04-17,Individual
+2008,Chemistry,1/3,10000000,10926573,2008-10-08,831,Roger Y. Tsien,male,1952-02-01,North America,USA,2016-08-24,Individual
+1996,Physiology or Medicine,1/2,7400000,9490424,1996-10-07,456,Rolf M. Zinkernagel,male,1944-01-06,Europe,Switzerland,not dead or organization,Individual
+1915,Literature,1,149223,6217625,1916-11-09,584,Romain Rolland,male,1866-01-29,Europe,France,1944-12-30,Individual
+1967,Chemistry,1/4,320000,2843602,not specified,234,Ronald G.W. Norrish,male,1897-11-09,Europe,United Kingdom,1978-06-07,Individual
+1991,Economic Sciences,1,6000000,8673863,1991-10-15,707,Ronald H. Coase,male,1910-12-29,Europe,United Kingdom,2013-09-02,Individual
+1902,Physiology or Medicine,1,141847,8059489,not specified,294,Ronald Ross,male,1857-05-13,Asia,India,1932-09-16,Individual
+1977,Physiology or Medicine,1/2,700000,3080986,not specified,413,Rosalyn Yalow,female,1921-07-19,North America,USA,2011-05-30,Individual
+2005,Physics,1/2,10000000,11711430,2005-10-04,791,Roy J. Glauber,male,1925-09-01,North America,USA,2018-12-26,Individual
+1908,Literature,1,139800,7084459,not specified,578,Rudolf Eucken,male,1846-01-05,Europe,East Friesland,1926-09-14,Individual
+1961,Physics,1/2,250233,2878447,not specified,76,Rudolf Mössbauer,male,1929-01-31,Europe,Germany,2011-09-14,Individual
+1992,Chemistry,1,6500000,9184250,1992-10-12,277,Rudolph A. Marcus,male,1923-07-21,North America,Canada,not dead or organization,Individual
+1907,Literature,1,138796,7033581,not specified,577,Rudyard Kipling,male,1865-12-30,Asia,British India,1936-01-18,Individual
+1993,Physics,1/2,6700000,9044276,1993-10-13,143,Russell A. Hulse,male,1950-11-28,North America,USA,not dead or organization,Individual
+2001,Chemistry,1/4,10000000,12295082,2001-10-10,742,Ryoji Noyori,male,1938-09-03,Asia,Japan,not dead or organization,Individual
+1960,Literature,1,225987,2664941,1960-10-26,631,Saint-John Perse,male,1887-05-31,North America,Guadeloupe Island,1975-09-20,Individual
+1969,Physiology or Medicine,1/3,375000,3181561,not specified,393,Salvador E. Luria,male,1912-08-13,Europe,Italy,1991-02-06,Individual
+1959,Literature,1,220678,2704387,not specified,630,Salvatore Quasimodo,male,1901-08-20,Europe,Italy,1968-06-14,Individual
+1969,Literature,1,375000,3181561,not specified,643,Samuel Beckett,male,1906-04-13,Europe,Ireland,1989-12-22,Individual
+1976,Physics,1/2,681000,3342605,1976-10-18,106,Samuel C.C. Ting,male,1936-01-27,North America,USA,not dead or organization,Individual
+1906,Physiology or Medicine,1/2,138536,7421571,not specified,299,Santiago Ramón y Cajal,male,1852-05-01,Europe,Spain,1934-10-17,Individual
+2015,Physiology or Medicine,1/4,8000000,8384572,not specified,917,Satoshi &#332;mura,male,1935-07-12,Asia,Japan,not dead or organization,Individual
+1976,Literature,1,681000,3342605,not specified,652,Saul Bellow,male,1915-06-10,North America,Canada,2005-04-05,Individual
+2011,Physics,1/2,10000000,10545557,2011-10-04,864,Saul Perlmutter,male,1959-00-00,North America,USA,not dead or organization,Individual
+1995,Literature,1,7200000,9278351,not specified,672,Seamus Heaney,male,1939-04-13,Europe,Northern Ireland,2013-08-30,Individual
+1974,Peace,1/2,550000,3263449,1974-10-09,532,Seán MacBride,male,1904-01-26,Europe,France,1988-01-15,Individual
+1909,Literature,1,139800,7084459,not specified,579,Selma Lagerlöf,female,1858-11-20,Europe,Sweden,1940-03-16,Individual
+1952,Physiology or Medicine,1,171135,2546652,not specified,353,Selman A. Waksman,male,1888-07-22,Europe,Russian Empire,1973-08-16,Individual
+2012,Physics,1/2,8000000,8361204,2012-10-09,876,Serge Haroche,male,1944-09-11,Africa,Morocco,not dead or organization,Individual
+1959,Physiology or Medicine,1/2,220678,2704387,not specified,367,Severo Ochoa,male,1905-09-24,Europe,Spain,1993-11-01,Individual
+1979,Physics,1/3,800000,2988048,1979-10-15,113,Sheldon Glashow,male,1932-12-05,North America,USA,not dead or organization,Individual
+1994,Peace,1/3,7000000,9249471,1994-10-14,558,Shimon Peres,male,1923-08-16,Europe,Poland,2016-09-28,Individual
+2012,Physiology or Medicine,1/2,8000000,8361204,not specified,875,Shinya Yamanaka,male,1962-09-04,Asia,Japan,not dead or organization,Individual
+2003,Peace,1,10000000,11807305,2003-10-10,773,Shirin Ebadi,female,1947-06-21,Asia,Iran,not dead or organization,Individual
+1966,Literature,1/2,300000,2784653,not specified,639,Shmuel Agnon,male,1888-07-17,Europe,Austria-Hungary,1970-02-17,Individual
+2014,Physics,1/3,8000000,8379888,2014-10-07,908,Shuji Nakamura,male,1954-05-22,Asia,Japan,not dead or organization,Individual
+1989,Chemistry,1/2,3000000,5242311,1989-10-12,273,Sidney Altman,male,1939-05-07,North America,Canada,not dead or organization,Individual
+1928,Literature,1,156939,4458494,not specified,601,Sigrid Undset,female,1882-05-20,Europe,Denmark,1949-06-10,Individual
+1971,Economic Sciences,1,450000,3321850,not specified,680,Simon Kuznets,male,1901-04-30,Europe,Russian Empire,1985-07-08,Individual
+1984,Physics,1/2,1650000,3782090,1984-10-17,125,Simon van der Meer,male,1925-11-24,Europe,the Netherlands,2011-03-04,Individual
+1965,Physics,1/3,282000,2782895,not specified,84,Sin-Itiro Tomonaga,male,1906-03-31,Asia,Japan,1979-07-08,Individual
+1930,Literature,1,172947,5066807,not specified,603,Sinclair Lewis,male,1885-02-07,North America,USA,1951-01-10,Individual
+1945,Physiology or Medicine,1/3,121333,2499993,not specified,339,Sir Alexander Fleming,male,1881-08-06,Europe,Scotland,1955-03-11,Individual
+1979,Economic Sciences,1/2,800000,2988048,1979-10-16,693,Sir Arthur Lewis,male,1915-01-23,North America,British West Indies,1991-06-15,Individual
+1925,Peace,1/2,118165,3211005,1926-12-10,488,Sir Austen Chamberlain,male,1863-10-16,Europe,United Kingdom,1937-03-16,Individual
+1970,Physiology or Medicine,1/3,400000,3177966,1970-10-15,394,Sir Bernard Katz,male,1911-03-26,Europe,Germany,2003-04-20,Individual
+1930,Physics,1,172947,5066807,not specified,37,Sir Chandrasekhara Venkata Raman,male,1888-11-07,Asia,India,1970-11-21,Individual
+1932,Physiology or Medicine,1/2,171753,5279293,not specified,323,Sir Charles Sherrington,male,1857-11-27,Europe,United Kingdom,1952-03-04,Individual
+1956,Chemistry,1/2,200123,2699501,not specified,219,Sir Cyril Hinshelwood,male,1897-05-19,Europe,United Kingdom,1967-10-09,Individual
+1960,Physiology or Medicine,1/2,225987,2664941,1960-10-20,369,Sir Frank Macfarlane Burnet,male,1899-09-03,Oceania,Australia,1985-08-31,Individual
+1929,Physiology or Medicine,1/2,172760,4907955,not specified,320,Sir Frederick Hopkins,male,1861-06-20,Europe,United Kingdom,1947-05-16,Individual
+2018,Chemistry,1/4,9000000,9000000,2018-10-03,965,Sir Gregory P. Winter,male,1951-04-14,Europe,United Kingdom,not dead or organization,Individual
+1996,Chemistry,1/3,7400000,9490424,1996-10-09,285,Sir Harold Kroto,male,1939-10-07,Europe,United Kingdom,2016-04-30,Individual
+1936,Physiology or Medicine,1/2,159850,4913422,not specified,330,Sir Henry Dale,male,1875-06-09,Europe,United Kingdom,1968-07-23,Individual
+1945,Physiology or Medicine,1/3,121333,2499993,not specified,341,Sir Howard Florey,male,1898-09-24,Oceania,Australia,1968-02-21,Individual
+2016,Chemistry,1/3,8000000,8301051,2016-10-05,932,Sir J. Fraser Stoddart,male,1942-05-24,Europe,United Kingdom,not dead or organization,Individual
+1988,Physiology or Medicine,1/3,2500000,4645689,not specified,437,Sir James W. Black,male,1924-06-14,Europe,Scotland,2010-03-21,Individual
+2012,Physiology or Medicine,1/2,8000000,8361204,not specified,874,Sir John B. Gurdon,male,1933-10-02,Europe,United Kingdom,not dead or organization,Individual
+1963,Physiology or Medicine,1/3,265000,2839286,not specified,375,Sir John Eccles,male,1903-01-27,Oceania,Australia,1997-05-02,Individual
+2007,Physiology or Medicine,1/3,10000000,11301989,2007-10-08,812,Sir Martin J. Evans,male,1941-01-01,Europe,United Kingdom,not dead or organization,Individual
+1977,Physics,1/3,700000,3080986,1977-10-11,108,Sir Nevill F. Mott,male,1905-09-30,Europe,United Kingdom,1996-08-08,Individual
+1933,Peace,1,170332,5413093,1934-12-10,498,Sir Norman Angell,male,1872-12-26,Europe,United Kingdom,1967-10-07,Individual
+2001,Physiology or Medicine,1/3,10000000,12295082,2001-10-08,737,Sir Paul Nurse,male,1949-01-25,Europe,United Kingdom,not dead or organization,Individual
+2019,Physiology or Medicine,1/3,9000000,9000000,2019-10-07,971,Sir Peter J. Ratcliffe,male,1954-05-14,Europe,United Kingdom,not dead or organization,Individual
+2003,Physiology or Medicine,1/2,10000000,11807305,2003-10-06,765,Sir Peter Mansfield,male,1933-10-09,Europe,United Kingdom,2017-02-08,Individual
+1947,Chemistry,1,146115,2914528,not specified,207,Sir Robert Robinson,male,1886-09-13,Europe,United Kingdom,1975-02-08,Individual
+1904,Chemistry,1,140859,7767960,not specified,163,Sir William Ramsay,male,1852-10-02,Europe,Scotland,1916-07-23,Individual
+1972,Chemistry,1/4,480000,3345725,not specified,242,Stanford Moore,male,1913-09-04,North America,USA,1982-08-23,Individual
+1997,Physiology or Medicine,1,7500000,9572839,1997-10-06,457,Stanley B. Prusiner,male,1942-05-28,North America,USA,not dead or organization,Individual
+1986,Physiology or Medicine,1/2,2000000,4098361,not specified,434,Stanley Cohen,male,1922-11-17,North America,USA,2020-02-05,Individual
+2014,Chemistry,1/3,8000000,8379888,2014-10-08,910,Stefan W. Hell,male,1962-12-23,Europe,Romania,not dead or organization,Individual
+1997,Physics,1/3,7500000,9572839,1997-10-15,152,Steven Chu,male,1948-02-28,North America,USA,not dead or organization,Individual
+1979,Physics,1/3,800000,2988048,1979-10-15,115,Steven Weinberg,male,1933-05-03,North America,USA,not dead or organization,Individual
+1983,Physics,1/2,1500000,3715324,1983-10-19,122,Subramanyan Chandrasekhar,male,1910-10-19,Asia,India,1995-08-21,Individual
+1901,Literature,1,150782,8567159,not specified,569,Sully Prudhomme,male,1839-03-16,Europe,France,1907-09-07,Individual
+1982,Physiology or Medicine,1/3,1150000,3102518,1982-10-11,425,Sune K. Bergström,male,1916-01-10,Europe,Sweden,2004-08-15,Individual
+1987,Physiology or Medicine,1,2175000,4274764,not specified,436,Susumu Tonegawa,male,1939-09-05,Asia,Japan,not dead or organization,Individual
+1903,Chemistry,1,141358,7795478,not specified,162,Svante Arrhenius,male,1859-02-19,Europe,Sweden,1927-10-02,Individual
+2015,Literature,1,8000000,8384572,2015-10-08,924,Svetlana Alexievich,female,1948-05-31,Europe,Ukraine,not dead or organization,Individual
+2002,Physiology or Medicine,1/3,10000000,12034660,2002-10-07,750,Sydney Brenner,male,1927-01-13,Africa,South Africa,2019-04-05,Individual
+1948,Literature,1,159773,3056881,not specified,619,T.S. Eliot,male,1888-09-26,North America,USA,1965-01-04,Individual
+1950,Physiology or Medicine,1/3,164304,3050198,not specified,350,Tadeus Reichstein,male,1897-07-20,Europe,Poland,1996-08-01,Individual
+2015,Physics,1/2,8000000,8384572,2015-10-06,919,Takaaki Kajita,male,1959-03-09,Asia,Japan,not dead or organization,Individual
+2018,Physiology or Medicine,1/2,9000000,9000000,not specified,959,Tasuku Honjo,male,1942-01-27,Asia,Japan,not dead or organization,Individual
+2011,Peace,1/3,10000000,10545557,2011-10-07,871,Tawakkol Karman,female,1979-02-07,Asia,Yemen,not dead or organization,Individual
+1989,Peace,1,3000000,5242311,1989-10-05,551,The 14th Dalai Lama ,male,1935-07-06,Asia,Tibet,not dead or organization,Individual
+1926,Chemistry,1,116960,3273134,not specified,183,The Svedberg,male,1884-08-30,Europe,Sweden,1971-02-25,Individual
+1909,Physiology or Medicine,1,139800,7084459,not specified,303,Theodor Kocher,male,1841-08-25,Europe,Switzerland,1917-07-27,Individual
+1902,Literature,1,141847,8059489,not specified,571,Theodor Mommsen,male,1817-11-30,Europe,Schleswig,1903-11-01,Individual
+2005,Physics,1/4,10000000,11711430,2005-10-04,793,Theodor W. Hänsch,male,1941-10-30,Europe,Germany,not dead or organization,Individual
+1906,Peace,1,138536,7421571,1906-12-10,470,Theodore Roosevelt,male,1858-10-27,North America,USA,1919-01-06,Individual
+1914,Chemistry,1,146900,7062500,1915-11-11,175,Theodore W. Richards,male,1868-01-31,North America,USA,1928-04-02,Individual
+1979,Economic Sciences,1/2,800000,2988048,1979-10-16,692,Theodore W. Schultz,male,1902-04-30,North America,USA,1998-02-26,Individual
+2009,Chemistry,1/3,10000000,10958504,2009-10-07,842,Thomas A. Steitz,male,1940-08-23,North America,USA,2018-08-23,Individual
+2005,Economic Sciences,1/2,10000000,11711430,2005-10-10,800,Thomas C. Schelling,male,1921-04-14,North America,USA,2016-12-13,Individual
+2013,Physiology or Medicine,1/3,8000000,8365867,not specified,886,Thomas C. Südhof,male,1955-12-22,Europe,Germany,not dead or organization,Individual
+1933,Physiology or Medicine,1,170332,5413093,not specified,325,Thomas H. Morgan,male,1866-09-25,North America,USA,1945-12-04,Individual
+1954,Physiology or Medicine,1/3,181647,2640218,not specified,357,Thomas H. Weller,male,1915-06-15,North America,USA,2008-08-23,Individual
+2011,Economic Sciences,1/2,10000000,10545557,2011-10-10,872,Thomas J. Sargent,male,1943-07-19,North America,USA,not dead or organization,Individual
+1929,Literature,1,172760,4907955,not specified,602,Thomas Mann,male,1875-06-06,Europe,Germany,1955-08-12,Individual
+1989,Chemistry,1/2,3000000,5242311,1989-10-12,274,Thomas R. Cech,male,1947-12-08,North America,USA,not dead or organization,Individual
+2001,Physiology or Medicine,1/3,10000000,12295082,2001-10-08,736,Tim Hunt,male,1943-02-19,Europe,United Kingdom,not dead or organization,Individual
+1975,Economic Sciences,1/2,630000,3404179,1975-10-14,687,Tjalling C. Koopmans,male,1910-08-28,Europe,the Netherlands,1985-02-26,Individual
+1911,Peace,1/2,140695,7327865,1911-12-10,478,Tobias Asser,male,1838-04-28,Europe,the Netherlands,1913-07-29,Individual
+2015,Chemistry,1/3,8000000,8384572,2015-10-07,921,Tomas Lindahl,male,1938-01-28,Europe,Sweden,not dead or organization,Individual
+2011,Literature,1,10000000,10545557,2011-10-06,868,Tomas Tranströmer,male,1931-04-15,Europe,Sweden,2015-03-26,Individual
+1993,Literature,1,6700000,9044276,not specified,670,Toni Morrison,female,1931-02-18,North America,USA,2019-08-05,Individual
+1981,Physiology or Medicine,1/4,1000000,2929688,1981-10-09,424,Torsten N. Wiesel,male,1924-06-03,Europe,Sweden,not dead or organization,Individual
+2008,Physics,1/4,10000000,10926573,2008-10-07,828,Toshihide Maskawa,male,1940-02-07,Asia,Japan,not dead or organization,Individual
+1989,Economic Sciences,1,3000000,5242311,1989-10-11,703,Trygve Haavelmo,male,1911-12-13,Europe,Norway,1999-07-26,Individual
+1957,Physics,1/2,208629,2697789,not specified,69,Tsung-Dao Lee,male,1926-11-24,Asia,China,not dead or organization,Individual
+2015,Physiology or Medicine,1/2,8000000,8384572,not specified,918,Tu Youyou,female,1930-12-30,Asia,China,not dead or organization,Individual
+1970,Physiology or Medicine,1/3,400000,3177966,1970-10-15,395,Ulf von Euler,male,1905-02-07,Europe,Sweden,1983-03-09,Individual
+2001,Peace,1/2,10000000,12295082,2001-10-12,748,United Nations,organization,1945-00-00,North America,USA,not dead or organization,Organization
+1965,Peace,1,282000,2782895,1965-10-26,525,United Nations Children's Fund,organization,1946-00-00,North America,USA,not dead or organization,Organization
+1988,Peace,1,2500000,4645689,1988-09-29,550,United Nations Peacekeeping Forces,organization,1948-00-00,North America,USA,not dead or organization,Organization
+2001,Literature,1,10000000,12295082,2001-10-11,747,V. S. Naipaul,male,1932-08-17,North America,Trinidad and Tobago,2018-08-11,Individual
+1980,Physics,1/2,880000,2889667,1980-10-12,117,Val Fitch,male,1923-03-10,North America,USA,2015-02-05,Individual
+2009,Chemistry,1/3,10000000,10958504,2009-10-07,841,Venkatraman Ramakrishnan,male,1952-00-00,Asia,India,not dead or organization,Individual
+1916,Literature,1,131793,4845331,1916-11-09,585,Verner von Heidenstam,male,1859-07-06,Europe,Sweden,1940-05-20,Individual
+2002,Economic Sciences,1/2,10000000,12034660,2002-10-09,760,Vernon L. Smith,male,1927-01-01,North America,USA,not dead or organization,Individual
+1977,Literature,1,700000,3080986,not specified,653,Vicente Aleixandre,male,1898-04-26,Europe,Spain,1984-12-14,Individual
+1936,Physics,1/2,159850,4913422,not specified,42,Victor F. Hess,male,1883-06-24,Europe,Austria,1964-12-17,Individual
+1912,Chemistry,1/2,140476,6753654,not specified,172,Victor Grignard,male,1871-05-06,Europe,France,1935-12-13,Individual
+1955,Chemistry,1,190214,2681588,1955-11-02,218,Vincent du Vigneaud,male,1901-05-18,North America,USA,1978-12-11,Individual
+2003,Physics,1/3,10000000,11807305,2003-10-07,767,Vitaly L. Ginzburg,male,1916-10-04,Europe,Russia,2009-11-08,Individual
+1975,Chemistry,1/2,630000,3404179,1975-10-17,248,Vladimir Prelog,male,1906-07-23,Europe,Austria-Hungary,1998-01-07,Individual
+1980,Chemistry,1/4,880000,2889667,1980-10-14,255,Walter Gilbert,male,1932-03-21,North America,USA,not dead or organization,Individual
+1956,Physics,1/3,200123,2699501,not specified,67,Walter H. Brattain,male,1902-02-10,Asia,China,1987-10-13,Individual
+1949,Physiology or Medicine,1/2,156290,2930438,not specified,347,Walter Hess,male,1881-03-17,Europe,Switzerland,1973-08-12,Individual
+1998,Chemistry,1/2,7600000,9713701,1998-10-13,290,Walter Kohn,male,1923-03-09,Europe,Austria,2016-04-19,Individual
+1954,Physics,1/2,181647,2640218,not specified,62,Walther Bothe,male,1891-01-08,Europe,Germany,1957-02-08,Individual
+1920,Chemistry,1,134100,2394643,not specified,178,Walther Nernst,male,1864-06-25,Europe,Prussia,1941-11-18,Individual
+2004,Peace,1,10000000,11762861,2004-10-08,783,Wangari Maathai,female,1940-04-01,Africa,Kenya,2011-09-25,Individual
+1973,Economic Sciences,1,510000,3331882,1973-10-18,683,Wassily Leontief,male,1906-08-05,Europe,Russia,1999-02-05,Individual
+1946,Chemistry,1/4,121524,2503929,not specified,206,Wendell M. Stanley,male,1904-08-16,North America,USA,1971-06-15,Individual
+1978,Physiology or Medicine,1/3,725000,2898454,not specified,414,Werner Arber,male,1929-06-03,Europe,Switzerland,not dead or organization,Individual
+1956,Physiology or Medicine,1/3,200123,2699501,not specified,361,Werner Forssmann,male,1904-08-29,Europe,Germany,1979-06-01,Individual
+1932,Physics,1,171753,5279293,not specified,38,Werner Heisenberg,male,1901-12-05,Europe,Germany,1976-02-01,Individual
+1901,Physics,1,150782,8567159,not specified,1,Wilhelm Conrad Röntgen,male,1845-03-27,Europe,Prussia,1923-02-10,Individual
+1909,Chemistry,1,139800,7084459,not specified,168,Wilhelm Ostwald,male,1853-09-02,Europe,Russian Empire,1932-04-04,Individual
+1911,Physics,1,140695,7327865,not specified,16,Wilhelm Wien,male,1864-01-13,Europe,Prussia,1928-08-30,Individual
+1960,Chemistry,1,225987,2664941,1960-11-03,224,Willard F. Libby,male,1908-12-17,North America,USA,1980-09-08,Individual
+2009,Physics,1/4,10000000,10958504,2009-10-06,839,Willard S. Boyle,male,1924-08-19,North America,Canada,2011-05-07,Individual
+1924,Physiology or Medicine,1,116719,3218355,not specified,315,Willem Einthoven,male,1860-05-21,Asia,"Java, Dutch East Indies",1927-09-29,Individual
+1983,Physics,1/2,1500000,3715324,1983-10-19,123,William A. Fowler,male,1911-08-09,North America,USA,1995-03-14,Individual
+1956,Physics,1/3,200123,2699501,not specified,65,William B. Shockley,male,1910-02-13,Europe,United Kingdom,1989-08-12,Individual
+1915,Physics,1/2,149223,6217625,1915-11-12,20,William Bragg,male,1862-07-02,Europe,United Kingdom,1942-03-12,Individual
+1923,Literature,1,114935,3169164,not specified,593,William Butler Yeats,male,1865-06-13,Europe,Ireland,1939-01-28,Individual
+2015,Physiology or Medicine,1/4,8000000,8384572,not specified,916,William C. Campbell,male,1930-06-28,Europe,Ireland,not dead or organization,Individual
+2018,Economic Sciences,1/2,9000000,9000000,not specified,968,William D. Nordhaus,male,1941-05-31,North America,USA,not dead or organization,Individual
+1997,Physics,1/3,7500000,9572839,1997-10-15,154,William D. Phillips,male,1948-11-05,North America,USA,not dead or organization,Individual
+2014,Chemistry,1/3,8000000,8379888,2014-10-08,911,William E. Moerner,male,1953-06-24,North America,USA,not dead or organization,Individual
+1949,Chemistry,1,156290,2930438,not specified,209,William F. Giauque,male,1895-05-12,North America,Canada,1982-03-28,Individual
+1990,Economic Sciences,1/3,4000000,6329114,1990-10-16,706,William F. Sharpe,male,1934-06-16,North America,USA,not dead or organization,Individual
+1949,Literature,1,156290,2930438,not specified,620,William Faulkner,male,1897-09-25,North America,USA,1962-07-06,Individual
+2019,Physiology or Medicine,1/3,9000000,9000000,2019-10-07,970,William G. Kaelin Jr,male,1957-11-23,North America,USA,not dead or organization,Individual
+1983,Literature,1,1500000,3715324,not specified,660,William Golding,male,1911-09-19,Europe,United Kingdom,1993-06-19,Individual
+1972,Chemistry,1/4,480000,3345725,not specified,243,William H. Stein,male,1911-06-25,North America,USA,1980-02-02,Individual
+2001,Chemistry,1/4,10000000,12295082,2001-10-10,741,William Knowles,male,1917-06-01,North America,USA,2012-06-13,Individual
+1976,Chemistry,1,681000,3342605,1976-10-18,249,William Lipscomb,male,1919-12-09,North America,USA,2011-04-14,Individual
+1934,Physiology or Medicine,1/3,162608,5167627,not specified,328,William P. Murphy,male,1892-02-06,North America,USA,1987-10-09,Individual
+1996,Economic Sciences,1/2,7400000,9490424,1996-10-08,716,William Vickrey,male,1914-06-21,North America,Canada,1996-10-11,Individual
+1955,Physics,1/2,190214,2681588,1955-11-02,63,Willis E. Lamb,male,1913-07-12,North America,USA,2008-05-15,Individual
+1971,Peace,1,450000,3321850,1971-10-21,529,Willy Brandt,male,1913-12-18,Europe,Germany,1992-10-08,Individual
+1953,Literature,1,175293,2567769,not specified,624,Winston Churchill,male,1874-11-30,Europe,United Kingdom,1965-01-24,Individual
+1996,Literature,1,7400000,9490424,not specified,673,Wislawa Szymborska,female,1923-07-02,Europe,Poland,2012-02-01,Individual
+1924,Literature,1,116719,3218355,not specified,594,Wladyslaw Reymont,male,1867-05-07,Europe,Russian Empire,1925-12-05,Individual
+1986,Literature,1,2000000,4098361,not specified,663,Wole Soyinka,male,1934-07-13,Africa,Nigeria,not dead or organization,Individual
+2001,Physics,1/3,10000000,12295082,2001-10-09,739,Wolfgang Ketterle,male,1957-10-21,Europe,West Germany,not dead or organization,Individual
+1989,Physics,1/4,3000000,5242311,1989-10-12,137,Wolfgang Paul,male,1913-08-10,Europe,Germany,1993-12-07,Individual
+1945,Physics,1,121333,2499993,not specified,50,Wolfgang Pauli,male,1900-04-25,Europe,Austria,1958-12-15,Individual
+1919,Peace,1,133127,2377268,1920-12-10,483,Woodrow Wilson,male,1856-12-28,North America,USA,1924-02-03,Individual
+1994,Peace,1/3,7000000,9249471,1994-10-14,557,Yasser Arafat,male,1929-08-24,Africa,Egypt,2004-11-11,Individual
+1968,Literature,1,350000,3052326,not specified,642,Yasunari Kawabata,male,1899-06-11,Asia,Japan,1972-04-16,Individual
+1994,Peace,1/3,7000000,9249471,1994-10-14,559,Yitzhak Rabin,male,1922-03-01,Asia,British Mandate of Palestine,1995-11-04,Individual
+2008,Physics,1/2,10000000,10926573,2008-10-07,826,Yoichiro Nambu,male,1921-01-18,Asia,Japan,2015-07-05,Individual
+2016,Physiology or Medicine,1,8000000,8301051,not specified,927,Yoshinori Ohsumi,male,1945-02-09,Asia,Japan,not dead or organization,Individual
+1986,Chemistry,1/3,2000000,4098361,1986-10-15,265,Yuan T. Lee,male,1936-11-19,Asia,Taiwan,not dead or organization,Individual
+2005,Chemistry,1/3,10000000,11711430,2005-10-05,794,Yves Chauvin,male,1930-10-10,Europe,Belgium,2015-01-27,Individual
+2000,Physics,1/4,9000000,11333109,2000-10-10,726,Zhores Alferov,male,1930-03-15,Europe,USSR,2019-03-01,Individual
+1980,Chemistry,1/4,880000,2889667,1980-10-14,222,Frederick Sanger,male,1918-08-13,Europe,United Kingdom,2013-11-19,Individual
+1944,Peace,1,121841,2510460,1945-11-12,482,International Committee of the Red Cross,organization,1863-00-00,Europe,Switzerland,not dead or organization,Organization
+1972,Physics,1/3,480000,3345725,not specified,66,John Bardeen,male,1908-05-23,North America,USA,1991-01-30,Individual
+1954,Chemistry,1,181647,2640218,not specified,217,Linus Pauling,male,1901-02-28,North America,USA,1994-08-19,Individual
+1911,Chemistry,1,140695,7327865,not specified,6,Marie Curie,female,1867-11-07,Europe,Russian Empire,1934-07-04,Individual
+1981,Peace,1,1000000,2929688,1981-10-14,515,Office of the United Nations High Commissioner for Refugees,organization,1951-00-00,Europe,Switzerland,not dead or organization,Organization
+1963,Peace,1/2,265000,2839286,1963-10-10,482,International Committee of the Red Cross,organization,1863-00-00,Europe,Switzerland,not dead or organization,Organization
+2020,Physiology or Medicine,1/3,not specified,not specified,2020-10-05,not specified,Michael Houghton,male,1949-00-00,Europe,United Kingdom,not dead or organization,Individual
+2020,Physiology or Medicine,1/3,not specified,not specified,2020-10-05,not specified,Harvey J. Alter,male,1935-09-12,North America,USA,not dead or organization,Individual
+2020,Physiology or Medicine,1/3,not specified,not specified,2020-10-05,not specified,Charls M. Rice,male,1952-08-25,North America,USA,not dead or organization,Individual
+2020,Physics,1/2,not specified,not specified,2020-10-06,not specified,Roger Penrose,male,1931-08-08,Europe,United Kingdom,not dead or organization,Individual
+2020,Physics,1/4,not specified,not specified,2020-10-06,not specified,Reinhard Genzel,male,1952-03-24,Europe,Germany,not dead or organization,Individual
+2020,Physics,1/4,not specified,not specified,2020-10-06,not specified,Andrea M. Ghez,female,1965-06-16,Europe,USA,not dead or organization,Individual
+2020,Chemistry,1/2,not specified,not specified,2020-10-07,not specified,Jennifer Doudna,female,1964-02-19,North America,USA,not dead or organization,Individual
+2020,Chemistry,1/2,not specified,not specified,2020-10-07,not specified,Emmanuelle Charpentier,female,1968-12-11,Europe,France,not dead or organization,Individual
+2020,Literature,1,not specified,not specified,2020-10-08,not specified,Louise Glück,female,1943-04-22,North America,USA,not dead or organization,Individual
+2020,Peace,1,not specified,not specified,2020-10-09,not specified,World Food Programme,organization,1961-12-19,North America,USA,not dead or organization,Organization
